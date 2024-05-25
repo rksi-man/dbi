@@ -1,0 +1,1001 @@
+День недели,Месяц,Время суток,Праздничные дни,Класс обслуживания,Кол-во оставшихся билетов,Направление полета,Продолжительность полета,Авиакомпания,Тип воздушного судна,Температура воздуха,Осадки,Скорость ветра,Наличие мероприятий,Наличие местных праздников,Наличие праздников выходного дня,Кол-во бронирований,Кол-во проданных билетов,Кол-во пассажиров на борту,Средняя цена билета,Рейтинг авиакомпании,Рейтинг аэропорта
+Sunday,05,ночь,False,бизнес,7,field,3,Miller Inc,defense,19,Снег,47,True,False,False,167,109,136,495,2,1
+Saturday,05,вечер,False,эконом,300,conference,1,Goodwin and Sons,weight,-15,Снег,31,True,False,True,2,82,54,170,3,5
+Wednesday,08,день,True,эконом,30,true,24,Morgan-Barnes,five,6,Дождь,7,False,False,True,42,152,45,406,2,2
+Friday,01,день,True,эконом,86,up,22,"Smith, Sanchez and White",similar,40,Дождь,38,True,True,True,181,164,134,866,1,2
+Wednesday,03,вечер,True,бизнес,129,employee,7,Thomas-Benton,blood,-12,Облачно,5,False,True,True,90,188,237,325,4,2
+Thursday,07,утро,True,бизнес,295,others,8,"Alvarez, Adams and Holder",mind,-19,Солнечно,15,False,False,True,157,108,214,765,1,4
+Tuesday,10,день,True,эконом,299,unit,7,"Cook, Butler and Cruz",budget,12,Снег,40,False,False,False,13,91,72,967,5,1
+Saturday,07,ночь,False,эконом,233,lay,10,Gray-Clark,dream,33,Облачно,23,False,True,True,18,146,277,323,5,2
+Wednesday,06,вечер,True,первый класс,76,change,3,"Gardner, Smith and Mccullough",left,-16,Облачно,21,True,False,True,134,84,111,366,4,1
+Friday,06,вечер,False,первый класс,18,throughout,16,Mason Group,good,39,Дождь,37,False,True,False,70,85,173,809,4,4
+Wednesday,05,ночь,True,первый класс,292,growth,15,Lara-Figueroa,blue,1,Солнечно,7,False,True,True,132,139,248,409,5,3
+Saturday,07,ночь,False,эконом,159,new,12,Torres Group,direction,-10,Солнечно,27,True,False,True,19,122,48,187,5,2
+Wednesday,12,ночь,True,эконом,255,garden,8,Young-Lee,situation,19,Дождь,50,False,False,True,161,73,6,161,5,3
+Wednesday,04,вечер,True,эконом,212,news,1,Robinson LLC,pull,-1,Солнечно,46,False,True,True,36,103,243,194,3,3
+Tuesday,04,утро,True,эконом,265,fill,24,Whitney-Fisher,might,20,Солнечно,28,False,False,True,31,139,153,442,4,1
+Sunday,10,утро,True,эконом,254,statement,16,Beard-Burch,minute,5,Облачно,9,True,True,True,14,169,15,499,3,4
+Sunday,08,ночь,False,эконом,253,its,20,"Wolfe, Rosales and Mejia",work,-14,Облачно,6,False,False,False,124,41,296,361,3,1
+Sunday,12,утро,True,бизнес,41,later,24,Howell-Koch,always,-8,Дождь,4,True,True,False,54,137,183,165,5,3
+Friday,04,утро,False,первый класс,161,gas,9,Wilson-Crawford,fall,5,Солнечно,41,True,True,True,141,45,9,702,3,1
+Thursday,11,день,False,первый класс,61,fast,1,Crawford LLC,general,-5,Облачно,32,False,False,False,55,177,3,203,5,2
+Monday,04,ночь,True,первый класс,38,door,8,"Ferguson, Peterson and Hensley",kid,2,Облачно,0,True,True,True,48,163,198,301,4,3
+Friday,03,ночь,False,первый класс,247,even,8,Taylor Inc,particular,32,Солнечно,39,True,False,True,50,122,143,924,5,5
+Saturday,07,ночь,True,эконом,23,conference,20,"Martinez, Butler and Davis",decade,-1,Облачно,34,False,False,True,165,198,7,410,2,2
+Wednesday,05,утро,False,бизнес,248,policy,24,Thomas-Rodriguez,yourself,-6,Облачно,27,True,True,True,71,168,6,457,1,3
+Thursday,06,утро,True,бизнес,297,win,10,Young-Carroll,south,-9,Дождь,46,False,False,False,149,114,223,753,1,4
+Tuesday,07,день,True,первый класс,275,charge,2,Macias Ltd,girl,8,Снег,15,False,False,True,172,55,224,118,2,1
+Friday,08,день,False,бизнес,85,most,15,Rocha-Townsend,late,37,Облачно,13,True,True,True,131,163,232,500,1,4
+Monday,11,утро,False,бизнес,256,admit,5,Woods and Sons,national,2,Солнечно,4,False,False,True,56,35,89,927,5,2
+Wednesday,08,ночь,False,бизнес,6,our,8,Smith and Sons,modern,6,Облачно,14,True,True,True,61,46,142,168,2,3
+Tuesday,03,утро,False,бизнес,275,employee,7,Neal Ltd,inside,33,Дождь,40,False,False,False,162,154,12,252,4,5
+Friday,04,ночь,True,бизнес,69,but,5,"Garner, Rodriguez and Kane",father,40,Дождь,3,False,False,False,16,113,102,430,4,3
+Friday,01,ночь,False,первый класс,84,night,6,Ramirez LLC,PM,-14,Солнечно,28,False,True,False,51,116,112,870,5,2
+Tuesday,05,утро,True,эконом,179,whether,23,Jones Ltd,increase,30,Снег,21,True,False,True,117,196,147,791,4,5
+Monday,09,утро,True,эконом,114,effort,12,Bass and Sons,decade,39,Дождь,26,True,True,True,41,155,191,892,1,3
+Monday,08,день,False,бизнес,281,red,12,Briggs-Williams,professional,24,Солнечно,40,False,True,False,54,79,132,286,2,5
+Friday,12,вечер,True,первый класс,85,window,15,White-Mitchell,film,-20,Дождь,49,True,True,True,153,96,224,588,1,2
+Monday,09,ночь,False,эконом,215,story,23,"Harris, Soto and Rogers",side,36,Дождь,48,True,False,True,199,135,268,254,1,4
+Saturday,03,утро,False,первый класс,106,citizen,9,Phillips and Sons,form,10,Снег,8,True,True,False,47,15,111,284,1,4
+Saturday,09,утро,False,первый класс,106,culture,11,"Boyd, Johnson and Macias",whatever,7,Дождь,12,True,True,False,112,153,73,213,1,1
+Sunday,09,утро,False,бизнес,223,western,15,"Bolton, Watson and Hart",military,21,Солнечно,31,True,True,False,189,8,255,365,1,3
+Friday,11,утро,True,эконом,60,hold,14,Miller-Castro,cover,30,Снег,50,True,True,False,125,82,38,202,5,3
+Sunday,07,ночь,True,бизнес,107,difference,13,Lane-Porter,follow,-5,Дождь,36,False,False,False,39,44,239,364,4,4
+Thursday,06,ночь,False,бизнес,10,wait,15,Stokes Inc,general,19,Дождь,26,True,False,True,179,132,245,578,5,3
+Friday,01,день,True,бизнес,103,power,21,Garcia-Alvarez,kitchen,22,Облачно,31,False,True,False,97,189,45,853,5,1
+Friday,11,вечер,False,первый класс,198,point,4,Kennedy Group,series,10,Солнечно,23,True,False,True,34,40,25,732,4,1
+Saturday,02,вечер,False,эконом,280,first,5,"Bowen, White and Perez",present,34,Дождь,41,False,True,True,151,155,43,327,3,2
+Wednesday,12,утро,False,эконом,164,employee,15,"Castillo, Davis and Gonzalez",market,2,Солнечно,16,True,True,True,11,19,139,653,1,2
+Tuesday,12,ночь,True,первый класс,3,heavy,14,Johnson Inc,force,27,Солнечно,36,False,True,True,125,81,260,366,5,2
+Tuesday,03,утро,False,первый класс,195,ground,5,Peters Ltd,wish,33,Дождь,17,False,True,True,164,83,227,573,2,1
+Friday,05,ночь,True,эконом,162,trouble,14,"Rose, Rodriguez and Yates",under,21,Облачно,17,False,True,False,84,83,234,737,1,3
+Saturday,10,утро,False,первый класс,21,establish,8,Smith LLC,in,20,Дождь,0,False,False,False,27,125,200,843,2,1
+Monday,09,день,False,первый класс,289,analysis,20,Mcdonald and Sons,pass,19,Облачно,37,True,True,True,72,164,217,266,5,5
+Friday,08,ночь,False,эконом,115,be,16,"Bentley, Jackson and Smith",the,18,Облачно,39,True,False,True,94,50,72,456,5,1
+Saturday,08,утро,False,первый класс,128,kitchen,10,Gomez-Williams,talk,36,Облачно,33,True,True,True,53,5,77,838,1,3
+Saturday,05,день,True,бизнес,123,claim,18,Reyes-Liu,present,36,Снег,22,False,False,True,13,88,292,836,4,5
+Saturday,05,вечер,False,первый класс,162,also,3,Cole-Moore,analysis,9,Облачно,9,True,True,False,42,161,266,696,1,2
+Sunday,10,ночь,False,бизнес,189,prevent,24,Turner-Jones,kitchen,-8,Дождь,44,False,False,False,5,108,97,916,2,3
+Friday,03,день,True,эконом,276,school,17,"Johnson, Blevins and Smith",wait,18,Снег,28,False,False,False,21,76,112,794,3,5
+Thursday,01,день,True,бизнес,15,soon,19,"Rodriguez, Flores and Roth",question,-6,Облачно,8,True,True,False,146,4,37,964,3,5
+Saturday,10,день,False,эконом,65,also,12,"Neal, King and Banks",economic,4,Дождь,0,True,True,False,177,76,292,394,3,2
+Saturday,10,день,False,первый класс,231,newspaper,8,Nichols-Perez,who,7,Облачно,14,True,True,False,187,159,208,837,4,4
+Thursday,05,день,False,бизнес,218,little,24,"Howard, Rodriguez and Hunt",clear,9,Снег,2,False,False,False,192,94,85,713,2,3
+Sunday,05,ночь,True,первый класс,171,assume,3,Perez-Cowan,daughter,33,Облачно,15,False,True,False,163,150,267,235,2,5
+Monday,01,вечер,True,бизнес,105,both,21,Larson LLC,by,12,Дождь,28,False,True,False,171,130,41,163,5,1
+Saturday,10,день,True,эконом,285,modern,16,Gonzales and Sons,special,12,Дождь,11,True,True,False,34,179,265,947,3,1
+Friday,03,ночь,True,эконом,20,than,15,Garcia and Sons,at,25,Солнечно,21,False,True,False,40,111,115,652,1,3
+Monday,10,ночь,True,эконом,103,provide,11,Martin-Williams,large,13,Облачно,50,False,False,False,30,44,86,636,2,5
+Wednesday,03,день,False,первый класс,54,close,14,Gardner-Flores,write,9,Облачно,17,True,True,False,188,196,196,278,1,1
+Tuesday,04,ночь,False,первый класс,151,cup,4,Carter Inc,yard,0,Дождь,43,False,False,False,140,23,273,682,5,5
+Monday,01,ночь,False,первый класс,220,help,9,Johnson Ltd,generation,7,Солнечно,38,False,True,False,82,197,242,305,3,3
+Monday,06,ночь,True,первый класс,229,process,2,"Oconnell, Stanton and Daugherty",carry,6,Облачно,2,False,False,False,9,131,15,872,5,3
+Saturday,10,утро,True,эконом,227,evening,16,Choi LLC,animal,13,Дождь,5,False,False,True,70,193,67,385,3,4
+Saturday,10,вечер,True,первый класс,186,part,22,Davis and Sons,support,4,Дождь,1,False,False,True,172,64,162,711,5,4
+Saturday,07,утро,False,первый класс,15,large,16,Jones-Smith,hundred,-4,Снег,43,False,False,False,109,89,186,535,1,5
+Thursday,12,утро,True,бизнес,285,collection,20,"Williams, Donovan and Johnson",individual,8,Снег,22,False,False,False,92,51,78,888,3,3
+Tuesday,05,вечер,False,бизнес,94,with,1,Mosley Group,husband,-10,Облачно,6,False,False,False,168,154,186,237,1,4
+Sunday,12,утро,False,бизнес,278,foreign,17,"Strong, Lewis and Thomas",consider,25,Облачно,18,False,False,True,191,153,214,492,2,3
+Monday,04,вечер,False,бизнес,208,western,2,"Vargas, Thompson and Bradley",turn,-10,Дождь,41,True,False,False,79,173,111,259,5,2
+Monday,11,утро,True,первый класс,242,now,22,Blake PLC,whom,10,Снег,19,True,True,True,116,183,7,802,3,5
+Thursday,11,ночь,False,эконом,15,yeah,6,Bryant-Bell,inside,-13,Снег,23,False,True,False,184,183,233,338,4,5
+Sunday,08,вечер,False,эконом,111,surface,2,"Dickson, Holt and Garcia",couple,29,Солнечно,30,False,False,True,165,128,135,370,2,3
+Tuesday,05,утро,False,эконом,274,about,7,Bass-Jenkins,local,26,Дождь,14,False,True,False,6,139,219,550,4,1
+Thursday,12,утро,True,эконом,32,generation,9,"Williams, Carter and Cooley",situation,31,Снег,46,False,False,True,149,136,79,296,4,2
+Monday,11,день,True,бизнес,142,break,12,Price-Kim,drug,-18,Дождь,21,True,True,True,16,187,73,123,3,4
+Monday,03,вечер,True,бизнес,7,think,24,White-Mosley,officer,-7,Облачно,25,False,True,True,27,174,50,179,5,2
+Wednesday,06,день,False,бизнес,219,anyone,8,Sawyer-Mata,stop,-14,Снег,23,False,True,False,24,92,56,443,4,3
+Monday,01,вечер,True,первый класс,158,rest,21,Oneill Group,management,5,Дождь,44,False,True,False,125,187,189,336,5,5
+Thursday,12,день,True,эконом,194,yeah,23,Mcguire and Sons,body,21,Солнечно,31,True,False,False,95,5,213,271,3,4
+Saturday,12,ночь,False,первый класс,218,forget,14,"Fox, Smith and Booker",training,2,Облачно,35,True,True,True,129,81,288,995,4,4
+Tuesday,08,ночь,True,бизнес,84,begin,5,"Jones, Macdonald and Lucero",order,32,Солнечно,43,True,False,True,99,51,150,854,3,4
+Monday,04,день,False,бизнес,169,station,2,Fernandez-Johnson,our,18,Солнечно,6,False,False,True,152,197,68,957,1,5
+Monday,09,вечер,True,первый класс,44,grow,20,Dickerson-Ruiz,major,-12,Дождь,39,False,True,False,120,174,55,547,1,1
+Sunday,12,вечер,False,первый класс,131,magazine,9,"Rowe, Roy and Hayes",beat,13,Дождь,23,True,False,False,4,2,144,549,5,4
+Sunday,10,ночь,True,первый класс,173,will,19,Hart-Wagner,matter,4,Дождь,1,False,True,True,103,44,94,701,1,3
+Friday,08,ночь,True,первый класс,196,little,5,Oneill-Zhang,play,19,Дождь,46,False,True,True,61,192,13,661,1,3
+Sunday,11,вечер,False,первый класс,62,cold,6,Williams-Schultz,fish,24,Дождь,50,True,True,False,19,83,22,432,4,4
+Saturday,05,день,True,первый класс,187,college,2,Peters-Jones,reality,-14,Облачно,13,True,False,False,145,184,5,422,2,3
+Wednesday,07,вечер,False,первый класс,72,owner,22,Johnson-Hicks,research,40,Снег,32,False,False,True,166,106,214,115,3,1
+Saturday,09,вечер,False,эконом,248,key,9,"Nelson, Norton and Brown",collection,14,Облачно,12,False,False,False,78,0,226,982,5,2
+Wednesday,09,день,False,первый класс,144,once,21,Bass-Neal,big,-16,Облачно,47,False,True,False,44,78,75,309,1,4
+Sunday,04,день,True,эконом,255,expect,1,Manning-Moses,next,21,Облачно,5,False,True,True,89,134,42,102,1,2
+Wednesday,11,вечер,False,бизнес,271,up,7,Ramirez-Jensen,American,18,Снег,38,True,True,False,3,24,102,393,3,3
+Wednesday,12,день,True,первый класс,215,area,4,"Castillo, Stone and Compton",low,31,Снег,40,True,True,True,28,98,183,514,2,2
+Sunday,11,ночь,False,первый класс,142,list,1,"Vaughn, Patel and Powell",read,-10,Солнечно,18,False,True,True,112,111,103,496,2,2
+Friday,10,вечер,False,эконом,206,whose,6,Kim-Evans,anything,33,Облачно,18,False,True,False,85,75,167,355,4,3
+Monday,11,день,False,первый класс,159,trade,6,"Vazquez, Rodriguez and Fitzpatrick",include,18,Снег,4,False,False,True,113,57,87,237,2,4
+Wednesday,10,утро,True,эконом,26,without,11,Medina PLC,you,28,Облачно,15,True,True,False,81,80,100,314,2,4
+Monday,02,вечер,False,первый класс,185,north,17,Brown Group,play,10,Дождь,31,True,False,True,170,62,195,271,3,1
+Wednesday,01,день,True,бизнес,151,beat,15,"Ward, Mason and Kennedy",approach,26,Солнечно,45,False,True,True,198,189,205,586,1,5
+Monday,08,день,True,эконом,236,very,18,Simon Ltd,bit,-5,Снег,11,False,False,True,164,193,81,253,1,3
+Sunday,06,день,True,первый класс,290,president,4,Campbell Inc,speak,-12,Снег,30,False,True,False,142,29,179,453,1,2
+Sunday,04,день,True,первый класс,120,tell,21,Short-Garcia,until,28,Облачно,35,True,True,True,110,55,269,438,5,2
+Thursday,06,ночь,True,бизнес,216,dinner,14,Sharp-Wallace,hard,-4,Дождь,4,False,True,True,172,42,289,587,2,3
+Thursday,03,день,True,бизнес,269,suddenly,17,Higgins LLC,safe,0,Снег,13,False,True,True,143,150,212,207,5,3
+Tuesday,02,вечер,True,эконом,145,forget,1,Barajas Inc,south,38,Дождь,25,True,False,False,177,87,42,865,4,4
+Friday,12,ночь,True,эконом,29,south,19,"Pierce, Myers and Dickson",however,-9,Облачно,39,True,True,True,79,123,231,709,3,2
+Thursday,12,вечер,False,бизнес,28,third,24,Peterson Inc,plan,-9,Снег,27,False,True,False,28,20,128,331,1,4
+Tuesday,03,ночь,False,эконом,247,imagine,2,"Wagner, Mccall and Elliott",teacher,36,Дождь,6,False,False,False,22,151,138,552,2,3
+Tuesday,09,вечер,False,первый класс,50,major,20,Payne-Garcia,town,15,Облачно,19,True,True,True,175,15,199,517,5,1
+Monday,10,вечер,False,первый класс,199,book,10,"Fisher, Hall and Brown",visit,36,Дождь,49,True,False,True,58,150,37,982,5,1
+Sunday,05,вечер,False,первый класс,161,daughter,22,"Landry, Smith and Meyers",sort,1,Солнечно,21,True,False,False,73,15,180,583,4,1
+Saturday,12,день,True,первый класс,233,bill,21,Parker-Arnold,notice,22,Солнечно,18,True,False,False,68,118,205,648,5,1
+Saturday,07,день,True,эконом,112,recent,2,Bowers-Cruz,these,6,Облачно,20,True,True,True,167,100,218,715,5,3
+Saturday,05,день,True,бизнес,111,few,6,Hunter LLC,side,-6,Снег,19,True,False,True,91,178,70,372,3,4
+Sunday,05,день,True,первый класс,111,instead,14,"James, Wall and Reed",water,-18,Дождь,47,True,False,True,43,59,150,857,1,5
+Saturday,03,ночь,True,первый класс,242,member,21,Green Group,us,24,Солнечно,3,True,False,False,104,25,200,235,5,4
+Sunday,05,день,False,бизнес,87,fine,2,Cox and Sons,step,38,Дождь,24,False,False,True,101,130,59,301,4,1
+Monday,07,вечер,True,бизнес,47,plant,18,Burgess-Combs,commercial,-10,Снег,38,False,True,True,167,44,13,361,4,3
+Sunday,05,вечер,True,первый класс,128,guy,2,Cox Group,course,-6,Облачно,48,True,True,False,91,110,202,309,4,1
+Monday,06,день,True,бизнес,16,first,9,"Cannon, Gray and Sullivan",discover,8,Облачно,2,True,True,True,36,7,212,882,4,5
+Monday,06,ночь,True,бизнес,279,several,21,Wu-Holloway,education,23,Дождь,9,True,False,True,111,119,33,806,3,3
+Thursday,04,день,False,первый класс,261,can,10,Gonzalez Ltd,middle,15,Снег,36,True,True,False,20,57,171,644,2,4
+Friday,10,ночь,True,эконом,1,decade,18,Holt-Boyd,similar,22,Снег,3,False,False,True,108,150,148,440,2,1
+Friday,03,утро,False,бизнес,296,type,6,Cruz LLC,serious,1,Облачно,47,False,False,True,26,20,148,505,2,5
+Monday,10,утро,False,бизнес,101,party,6,Carr-Cochran,own,31,Снег,4,False,False,True,200,140,58,110,2,2
+Wednesday,04,ночь,True,бизнес,209,question,24,Haynes Group,concern,-11,Снег,13,True,True,True,9,29,97,125,5,1
+Monday,03,день,False,бизнес,271,many,10,"Lynch, Phillips and Burnett",protect,2,Облачно,33,False,True,True,95,135,211,943,4,1
+Wednesday,03,ночь,False,бизнес,139,mention,22,Ayala-Hart,similar,37,Солнечно,11,True,False,False,99,51,17,253,4,3
+Sunday,10,день,True,эконом,94,check,9,"Daniels, Thomas and Shelton",former,-15,Снег,31,True,False,False,14,123,109,420,2,4
+Thursday,09,утро,False,первый класс,146,sound,21,"Munoz, Hoffman and Larson",dog,11,Солнечно,31,False,True,False,187,172,249,823,4,3
+Monday,02,день,False,бизнес,177,conference,6,"Miles, Combs and Frank",better,-15,Снег,6,True,True,False,20,90,209,445,3,4
+Friday,06,вечер,True,первый класс,234,fish,22,"Lopez, Henderson and Heath",those,37,Дождь,48,False,False,True,62,73,234,587,2,2
+Friday,08,день,True,эконом,148,in,11,Haas and Sons,service,3,Дождь,27,True,False,True,132,59,142,779,2,1
+Friday,10,вечер,True,бизнес,73,boy,23,"Elliott, Clark and Turner",hope,28,Снег,20,False,True,True,187,112,171,705,3,1
+Sunday,12,ночь,True,эконом,223,according,2,"Sandoval, Gray and Coleman",hotel,-10,Солнечно,49,True,True,False,177,153,239,390,2,2
+Saturday,09,день,False,эконом,183,no,3,Lee-Gonzalez,common,-14,Солнечно,47,True,True,True,134,62,280,821,1,1
+Wednesday,10,утро,False,бизнес,44,environmental,3,Griffin Ltd,recent,-14,Дождь,45,True,False,True,119,23,267,206,5,5
+Tuesday,04,вечер,True,бизнес,285,crime,6,"Hoffman, Ward and Castro",describe,37,Солнечно,30,True,False,False,184,35,74,934,2,5
+Tuesday,07,ночь,True,бизнес,293,challenge,19,Mcknight-Washington,pull,33,Снег,26,False,False,False,2,184,48,264,2,2
+Tuesday,12,день,True,эконом,124,offer,3,Steele-Alexander,animal,39,Снег,24,True,False,True,143,70,295,678,4,5
+Monday,02,день,True,бизнес,227,itself,10,Turner-Harrison,accept,6,Солнечно,43,False,True,False,66,110,234,754,2,1
+Friday,12,утро,True,первый класс,104,major,20,Ford LLC,look,35,Солнечно,12,False,False,True,87,70,269,363,5,5
+Wednesday,06,день,False,бизнес,246,remain,18,Blair Inc,third,-15,Снег,31,True,True,False,97,121,69,223,2,5
+Sunday,11,утро,True,бизнес,32,resource,13,Cook PLC,clear,6,Дождь,50,False,False,False,80,153,156,277,4,1
+Wednesday,04,день,False,бизнес,166,million,24,Browning-Aguilar,run,28,Облачно,27,True,True,True,92,184,236,972,2,1
+Sunday,12,день,True,бизнес,3,go,9,Stafford Inc,here,-4,Солнечно,33,True,True,True,130,153,231,280,2,5
+Thursday,03,день,True,первый класс,113,street,19,"Johnson, Rosario and Roberts",owner,18,Снег,20,True,False,True,197,198,232,618,1,1
+Monday,09,вечер,True,первый класс,229,language,18,Walker-Ward,father,-20,Дождь,19,True,True,False,21,53,112,342,4,1
+Monday,10,ночь,False,эконом,209,relationship,9,Garza Ltd,current,5,Снег,40,True,False,False,166,134,42,327,5,3
+Wednesday,10,день,False,первый класс,177,wear,21,Robinson-Wilson,notice,9,Дождь,15,False,False,True,36,50,149,672,5,3
+Thursday,10,ночь,True,бизнес,58,Mr,6,Sullivan-Rush,rate,-19,Облачно,6,True,False,True,184,108,135,423,1,4
+Thursday,10,день,True,первый класс,226,experience,17,West-Kline,religious,1,Солнечно,27,True,False,True,116,189,273,339,3,1
+Wednesday,12,день,False,бизнес,197,per,20,Burch PLC,single,39,Солнечно,21,False,True,False,19,186,224,307,4,5
+Saturday,07,вечер,True,первый класс,269,cultural,17,Schultz-Davis,might,22,Солнечно,33,True,True,False,188,10,71,897,1,2
+Saturday,02,вечер,True,эконом,62,level,1,Smith PLC,win,7,Облачно,13,False,False,False,195,26,236,542,2,1
+Sunday,11,вечер,False,первый класс,44,newspaper,12,Moran-Torres,woman,-7,Снег,34,True,True,True,115,162,92,345,5,2
+Tuesday,07,утро,False,бизнес,228,front,7,"Cohen, Ramirez and Rogers",marriage,-6,Дождь,13,False,False,False,33,111,267,611,1,4
+Tuesday,10,день,True,эконом,176,mission,20,Newton PLC,it,29,Солнечно,23,True,False,False,196,149,278,763,3,1
+Thursday,05,утро,True,эконом,255,arm,23,"Ellis, Vargas and Roberts",hand,21,Дождь,23,False,False,True,18,110,90,539,1,5
+Sunday,03,день,False,бизнес,161,very,14,Calderon Inc,go,2,Дождь,38,False,True,False,200,138,102,549,4,2
+Tuesday,03,вечер,True,эконом,293,often,14,Thomas-Robinson,method,5,Облачно,20,True,False,False,129,132,133,893,4,3
+Saturday,08,день,False,бизнес,80,letter,11,Wright Ltd,simply,9,Солнечно,11,True,False,False,133,95,148,415,4,4
+Monday,08,ночь,True,первый класс,287,figure,7,Johnson and Sons,though,29,Облачно,28,True,False,True,114,169,183,204,3,5
+Monday,03,ночь,True,эконом,290,mother,6,"Mccarthy, Hall and Williams",most,13,Облачно,9,True,False,True,59,186,78,109,3,2
+Tuesday,04,утро,True,бизнес,3,investment,7,Owens PLC,step,-12,Снег,6,True,False,False,28,171,252,291,3,2
+Wednesday,07,вечер,False,бизнес,47,run,1,Daniel-Lang,certain,34,Снег,22,False,True,True,104,24,172,129,1,5
+Friday,03,вечер,True,бизнес,247,color,18,Rose-Hoover,game,20,Облачно,25,True,False,True,162,23,149,568,3,2
+Friday,12,вечер,False,первый класс,205,girl,13,"Harding, Johnson and Garcia",son,-14,Солнечно,32,False,False,False,154,25,286,911,4,3
+Wednesday,08,вечер,True,бизнес,146,tonight,10,Lee Group,site,1,Облачно,5,False,True,True,71,67,82,270,5,1
+Friday,06,день,True,первый класс,163,security,10,"Boyd, Gomez and Ray",power,6,Солнечно,3,True,True,True,58,23,158,534,3,2
+Thursday,12,ночь,True,бизнес,27,million,11,"Simon, Foster and Schwartz",arm,2,Облачно,43,False,True,True,155,114,257,344,5,2
+Tuesday,08,вечер,True,первый класс,229,bring,23,Burke-Gutierrez,usually,-18,Дождь,49,True,True,True,74,116,176,519,3,4
+Thursday,04,вечер,False,эконом,123,author,9,Blair-Thomas,group,0,Снег,22,True,True,False,133,168,194,449,2,5
+Saturday,09,день,True,первый класс,45,beautiful,11,"Riley, Rice and Cooper",wish,-17,Облачно,14,False,True,False,13,162,176,367,2,5
+Friday,03,день,False,первый класс,17,group,6,Burns PLC,another,-18,Дождь,22,False,False,True,48,32,93,604,5,4
+Friday,11,ночь,True,первый класс,194,risk,9,Ibarra Inc,possible,8,Облачно,23,True,True,False,84,74,82,414,2,2
+Sunday,06,утро,False,бизнес,238,finally,7,Morales LLC,various,-6,Снег,5,True,False,False,163,51,77,212,1,2
+Wednesday,11,день,False,бизнес,247,ahead,19,Burns PLC,fast,-2,Облачно,43,True,True,True,51,56,2,289,5,5
+Tuesday,04,утро,True,эконом,231,add,23,"Kim, Hutchinson and Hernandez",relationship,27,Солнечно,27,True,False,True,109,36,238,115,1,5
+Monday,10,вечер,True,эконом,40,like,16,Steele Group,news,28,Облачно,48,True,False,True,181,106,10,286,5,3
+Tuesday,07,вечер,False,эконом,263,will,5,"Wallace, Shelton and Huff",find,-20,Снег,23,False,False,True,145,145,140,759,4,3
+Saturday,12,день,True,эконом,18,laugh,20,Robinson-Reynolds,someone,-6,Снег,49,True,False,True,100,197,242,384,1,5
+Saturday,07,вечер,False,эконом,241,wife,4,Brown-Lopez,together,-14,Солнечно,4,True,False,True,111,125,192,548,4,1
+Monday,01,день,True,бизнес,200,meet,22,Hall-Jones,receive,18,Дождь,22,False,True,False,162,95,9,925,3,2
+Thursday,12,ночь,False,эконом,100,operation,3,Robinson-Collins,sound,-1,Дождь,3,False,False,True,37,150,136,730,1,2
+Saturday,03,день,False,первый класс,243,upon,10,"Jackson, Dixon and Craig",here,29,Снег,8,True,True,False,143,27,135,396,1,1
+Saturday,09,утро,True,первый класс,173,spring,3,"Scott, Thomas and Hill",world,8,Снег,1,False,True,False,177,37,59,848,5,4
+Friday,09,день,True,эконом,64,suddenly,9,Smith Inc,full,23,Облачно,45,True,False,True,29,116,7,515,1,5
+Friday,08,ночь,False,первый класс,68,share,22,White-Shields,community,24,Дождь,17,True,False,False,164,181,233,862,3,1
+Friday,04,утро,False,бизнес,84,student,14,Johnson-Black,born,-20,Снег,2,False,False,True,141,151,287,185,4,3
+Wednesday,06,вечер,True,первый класс,175,environment,8,Holmes LLC,probably,28,Дождь,1,False,False,True,97,137,65,699,2,2
+Tuesday,07,ночь,True,эконом,179,near,12,"White, Montgomery and Walker",social,34,Снег,31,True,False,True,166,90,23,197,4,5
+Wednesday,08,ночь,False,эконом,168,fear,21,Tanner Group,task,-15,Облачно,8,True,True,False,106,137,270,899,4,4
+Thursday,07,вечер,False,эконом,167,service,21,"Foster, Smith and Hernandez",about,-5,Дождь,22,False,False,False,40,77,118,158,4,5
+Saturday,03,день,False,эконом,296,management,9,Alvarado PLC,on,-1,Дождь,29,True,True,True,150,155,276,769,5,2
+Monday,10,вечер,False,эконом,292,attention,4,"Gonzales, Walker and Salinas",building,-14,Облачно,13,True,True,True,144,181,188,986,3,3
+Monday,09,день,False,эконом,217,necessary,11,Thompson-Townsend,build,24,Дождь,17,False,True,False,14,173,71,285,2,4
+Sunday,07,день,True,бизнес,164,thank,21,Chandler-Garcia,record,7,Облачно,45,False,True,True,191,39,115,996,2,5
+Thursday,07,утро,True,первый класс,248,trouble,7,Osborne and Sons,you,-1,Солнечно,35,True,True,True,172,6,105,906,4,5
+Tuesday,02,утро,False,эконом,237,just,7,"Williams, Jordan and Anderson",argue,23,Солнечно,36,True,True,False,35,181,51,714,5,5
+Sunday,09,вечер,True,первый класс,152,gun,2,Burns Ltd,better,10,Облачно,29,False,True,False,191,72,10,293,5,3
+Friday,04,вечер,True,эконом,248,doctor,21,"Wise, Lam and Thomas",itself,-16,Дождь,36,False,False,False,118,148,105,866,4,2
+Thursday,10,ночь,True,бизнес,190,quickly,22,Serrano Inc,toward,33,Облачно,9,False,False,True,78,76,233,501,2,4
+Sunday,07,день,True,эконом,124,challenge,20,"Rodriguez, Collins and Henson",stock,-12,Солнечно,35,True,True,True,84,181,97,338,3,5
+Tuesday,02,ночь,False,первый класс,193,kid,8,Parker-Robertson,good,14,Снег,50,False,False,False,8,45,46,214,3,3
+Sunday,09,день,False,бизнес,88,scene,19,Mcdonald-Elliott,option,-18,Облачно,45,True,True,True,49,163,108,862,4,1
+Monday,03,утро,True,первый класс,242,western,9,Castillo PLC,data,25,Снег,17,True,True,False,16,50,189,175,1,4
+Wednesday,01,утро,True,эконом,253,action,23,"King, Mendoza and Pratt",wear,7,Облачно,26,False,False,True,193,173,211,620,2,1
+Thursday,04,день,True,первый класс,3,on,22,Barrera-Black,wind,29,Солнечно,32,False,False,False,122,166,136,747,3,1
+Tuesday,08,день,True,эконом,264,reason,23,"Jackson, Perez and Ortiz",decide,-7,Дождь,3,True,False,True,146,119,283,340,2,5
+Tuesday,08,утро,True,бизнес,8,trip,21,"Thomas, Contreras and Edwards",low,8,Солнечно,4,False,True,False,154,7,293,365,1,3
+Tuesday,02,день,True,эконом,10,each,2,Mcclure PLC,others,3,Солнечно,32,False,False,False,87,149,39,947,1,5
+Friday,12,ночь,True,эконом,93,popular,17,Navarro Inc,listen,26,Дождь,36,True,False,True,69,106,103,534,4,2
+Saturday,09,утро,False,эконом,181,our,21,Brooks Group,career,10,Снег,19,True,False,False,168,48,202,303,1,3
+Sunday,10,ночь,False,эконом,94,entire,19,Sherman and Sons,sell,-3,Солнечно,28,True,False,False,147,25,197,879,2,1
+Monday,11,вечер,False,первый класс,230,cold,12,"Ritter, Chaney and Mooney",at,39,Дождь,10,True,False,True,3,123,98,488,1,5
+Tuesday,06,день,False,первый класс,152,player,9,Stanton Inc,figure,-16,Солнечно,20,False,True,True,7,60,86,166,1,3
+Monday,10,вечер,False,эконом,10,view,9,Hall PLC,station,-12,Облачно,18,True,True,True,133,128,133,396,1,5
+Sunday,04,ночь,True,бизнес,150,talk,9,Garcia Inc,the,22,Солнечно,21,False,True,False,0,47,253,362,1,5
+Monday,08,ночь,True,эконом,3,production,15,Thomas-Reed,even,11,Солнечно,50,True,False,True,151,182,168,435,2,2
+Wednesday,03,утро,True,бизнес,168,happy,10,Phillips-Lopez,letter,20,Солнечно,33,True,False,True,5,113,38,463,4,1
+Monday,02,ночь,False,эконом,163,study,17,Murphy-Jones,approach,24,Снег,43,False,False,True,109,126,155,449,1,5
+Monday,12,вечер,False,эконом,284,oil,15,Navarro-Zavala,kitchen,-9,Дождь,36,False,False,True,98,134,184,554,4,5
+Monday,09,день,True,эконом,41,live,2,"Williams, Allen and Young",sit,3,Солнечно,5,True,True,False,24,78,249,637,3,2
+Thursday,09,вечер,True,первый класс,20,offer,18,"Holloway, Vazquez and Cummings",occur,16,Снег,12,True,False,False,140,122,277,513,5,4
+Wednesday,09,ночь,False,эконом,195,design,23,Barry PLC,participant,9,Снег,4,False,False,True,149,122,165,110,3,2
+Saturday,03,утро,True,бизнес,211,of,15,Novak Group,just,-5,Дождь,12,False,False,True,164,160,72,710,1,3
+Thursday,02,ночь,False,бизнес,230,improve,8,Hicks-Gibson,culture,24,Солнечно,6,True,False,True,21,37,231,750,3,4
+Wednesday,01,вечер,False,первый класс,15,back,7,"Williams, Williams and Williams",scene,20,Облачно,24,True,True,True,155,144,255,839,4,5
+Tuesday,04,утро,False,бизнес,123,summer,8,"Smith, Daniels and Pena",body,-10,Солнечно,41,False,True,True,114,129,42,708,1,3
+Friday,05,вечер,False,эконом,222,husband,14,Porter Group,entire,36,Снег,17,True,True,False,67,130,87,824,3,3
+Saturday,01,день,True,первый класс,227,finish,9,Atkins Ltd,turn,-12,Солнечно,26,True,False,True,193,177,118,846,2,2
+Thursday,07,утро,True,бизнес,294,score,19,Brown LLC,remember,20,Дождь,1,False,True,False,88,175,291,234,1,5
+Monday,11,вечер,True,бизнес,247,build,2,"Hill, Horton and Bennett",state,10,Солнечно,4,False,True,False,36,106,43,413,3,2
+Thursday,11,ночь,False,первый класс,108,ready,12,"Bailey, Kirk and Perez",range,-2,Снег,12,True,False,True,198,172,158,271,1,5
+Saturday,07,день,False,первый класс,173,officer,3,"Jenkins, Campbell and Johnson",technology,8,Солнечно,21,True,False,True,99,54,8,134,3,2
+Saturday,01,день,False,первый класс,294,still,23,Wood-Price,should,-2,Снег,0,False,True,False,125,31,256,403,3,5
+Sunday,01,ночь,True,бизнес,169,let,4,"Johnson, Parker and Floyd",short,9,Облачно,6,True,False,True,12,16,83,321,4,5
+Wednesday,05,утро,True,эконом,139,detail,2,Newton LLC,citizen,11,Снег,45,True,False,True,12,158,245,787,1,3
+Friday,02,вечер,False,бизнес,156,fast,23,"Martinez, Boyle and Jackson",particularly,0,Дождь,41,True,False,True,179,104,2,932,2,1
+Sunday,09,день,False,эконом,54,street,9,Harper PLC,drop,-15,Снег,48,True,False,False,32,130,215,158,4,2
+Thursday,05,ночь,False,эконом,78,offer,16,Morales-Long,pay,14,Снег,50,False,True,True,29,86,23,978,4,3
+Saturday,04,ночь,True,бизнес,284,hard,6,Mahoney-Smith,collection,-17,Облачно,43,False,False,False,58,128,114,728,3,1
+Sunday,08,вечер,False,первый класс,223,argue,22,Young and Sons,stay,15,Дождь,45,False,False,False,22,14,249,967,3,2
+Friday,12,вечер,True,бизнес,58,nor,12,"Case, Santana and Good",nation,-2,Снег,10,False,True,True,59,199,32,422,2,2
+Saturday,09,утро,False,эконом,211,address,11,"Morgan, Simpson and Rivera",probably,-5,Дождь,26,True,False,False,2,14,288,597,4,2
+Thursday,06,день,True,бизнес,237,sister,12,"Moreno, Johnson and King",that,28,Солнечно,48,False,False,False,162,7,218,893,1,4
+Saturday,05,вечер,False,бизнес,114,concern,5,Velazquez-Zuniga,hotel,40,Дождь,20,True,True,True,74,180,7,900,1,4
+Sunday,01,утро,False,эконом,93,have,7,"Thomas, Mahoney and Salazar",space,20,Солнечно,39,True,True,True,196,101,140,942,5,4
+Sunday,05,день,False,первый класс,144,group,22,Jones-King,process,19,Облачно,30,False,False,False,179,76,194,863,2,1
+Sunday,08,утро,True,эконом,121,discuss,19,Shaw-Smith,box,31,Снег,14,True,True,True,21,13,157,312,5,1
+Tuesday,02,день,True,первый класс,116,her,3,Rosales-Hamilton,remain,29,Снег,25,True,False,True,17,146,286,378,2,5
+Monday,04,ночь,False,первый класс,277,in,23,"Rodriguez, Ramos and Mcdaniel",account,-14,Снег,11,True,False,True,189,162,214,522,2,1
+Tuesday,11,ночь,True,эконом,143,eye,18,Patterson Inc,hospital,-7,Солнечно,27,True,False,False,159,8,260,752,2,3
+Thursday,11,вечер,False,бизнес,104,difference,21,"Owens, Taylor and Rosales",minute,8,Солнечно,44,False,True,True,136,130,63,696,5,3
+Sunday,09,вечер,True,первый класс,2,include,17,Cook-Salinas,imagine,-16,Солнечно,2,True,False,True,200,69,199,813,4,4
+Thursday,06,утро,True,первый класс,158,possible,10,Francis-Wiggins,imagine,15,Солнечно,18,True,True,False,139,79,3,367,5,4
+Saturday,10,день,True,эконом,261,first,20,Odonnell-Frederick,eight,31,Снег,18,False,False,True,41,174,119,971,5,4
+Wednesday,12,ночь,False,бизнес,89,talk,2,"Wong, Craig and Oliver",just,25,Солнечно,23,True,False,True,139,137,179,814,1,2
+Thursday,10,вечер,False,бизнес,101,me,6,Johnson-Calderon,stand,7,Снег,21,True,False,False,32,46,254,539,4,3
+Monday,06,вечер,True,первый класс,3,owner,6,Parker-Whitaker,message,28,Солнечно,49,False,False,False,64,86,82,294,1,4
+Thursday,09,ночь,True,бизнес,285,through,19,Tate Ltd,environmental,-5,Снег,22,True,True,True,69,135,49,709,1,4
+Thursday,07,вечер,True,первый класс,118,common,14,"Wilkins, Ayers and Kent",president,3,Дождь,32,False,True,True,67,22,269,232,2,1
+Thursday,04,день,False,эконом,225,middle,9,Smith-Collins,win,37,Облачно,46,True,True,False,139,37,134,543,4,1
+Wednesday,05,утро,True,эконом,122,society,9,Smith Inc,assume,30,Облачно,0,False,False,True,67,156,183,383,4,5
+Thursday,06,ночь,True,эконом,211,necessary,19,Hall Group,clearly,-5,Дождь,31,True,False,False,90,86,29,504,4,2
+Wednesday,06,ночь,True,бизнес,216,movie,14,Williams LLC,husband,12,Дождь,15,False,True,True,3,35,122,400,3,3
+Sunday,07,утро,True,первый класс,32,evidence,2,"Cruz, Grimes and Hardin",she,36,Облачно,43,True,True,True,48,118,19,884,1,2
+Tuesday,11,вечер,False,бизнес,105,fly,15,"Underwood, Campbell and Keller",this,-20,Солнечно,47,False,True,True,22,2,104,427,3,3
+Saturday,12,вечер,False,первый класс,45,cause,6,Norris and Sons,serve,18,Солнечно,26,True,False,True,79,141,220,611,5,3
+Friday,07,утро,True,первый класс,121,argue,19,Vasquez-Patterson,personal,-10,Солнечно,35,False,True,True,137,106,16,135,4,1
+Saturday,08,день,True,эконом,103,bring,3,"Holmes, Salazar and Reed",particularly,31,Снег,49,False,True,False,38,182,263,528,2,4
+Wednesday,10,день,False,первый класс,284,film,3,"Washington, Barton and Powell",thank,20,Облачно,18,True,True,False,163,53,185,789,1,2
+Tuesday,07,утро,True,эконом,106,culture,13,Roberts-Parsons,also,15,Солнечно,17,False,True,False,105,4,221,111,1,2
+Friday,07,вечер,False,бизнес,250,training,13,Howard-Baker,response,21,Облачно,9,True,True,False,135,47,133,690,4,3
+Friday,08,ночь,False,эконом,183,across,12,"Roberts, Thomas and Simpson",car,39,Снег,6,True,False,False,113,78,36,655,3,2
+Saturday,06,ночь,False,эконом,120,poor,14,West-Michael,day,3,Снег,24,False,True,True,4,141,74,466,5,3
+Thursday,01,утро,False,первый класс,102,get,2,"Williams, Smith and Phillips",skill,-20,Снег,24,True,False,False,161,19,80,833,2,4
+Saturday,05,день,True,эконом,24,effect,18,Sims-Lewis,imagine,30,Снег,25,False,False,False,138,93,62,958,2,1
+Friday,12,утро,False,эконом,234,visit,6,"King, Salinas and Vega",guy,34,Облачно,19,False,True,False,6,48,53,601,2,3
+Wednesday,04,день,True,эконом,141,while,2,Reeves-Yu,personal,3,Снег,31,True,False,True,46,106,159,588,4,3
+Wednesday,02,вечер,True,первый класс,80,compare,16,"Gutierrez, Nelson and Burke",from,2,Дождь,41,True,False,True,47,126,153,232,1,4
+Tuesday,11,утро,False,первый класс,134,free,12,Hernandez-Myers,person,-20,Облачно,44,False,False,True,82,124,250,198,4,4
+Sunday,12,вечер,True,эконом,39,account,15,Cook LLC,song,-3,Облачно,30,False,False,False,67,114,124,190,4,5
+Friday,11,день,False,бизнес,236,and,22,Reed-Salas,present,15,Снег,4,True,False,False,160,147,295,336,5,4
+Monday,02,день,True,первый класс,98,within,3,Nguyen Ltd,house,1,Облачно,14,True,True,True,27,16,40,743,1,3
+Wednesday,10,ночь,True,бизнес,83,care,1,Curry-Lowe,economic,14,Облачно,10,False,False,False,84,4,124,326,4,4
+Sunday,06,ночь,False,эконом,157,very,2,Harper-Walker,their,22,Солнечно,29,True,True,True,39,13,74,102,5,1
+Monday,10,ночь,True,бизнес,110,attorney,16,Trevino LLC,everyone,-13,Облачно,11,True,True,False,165,127,44,884,1,5
+Friday,10,утро,False,бизнес,250,minute,13,Harper PLC,player,-3,Снег,48,False,True,True,27,175,252,816,1,2
+Saturday,10,ночь,False,эконом,269,help,1,Bean-Martinez,either,17,Облачно,19,True,False,False,116,15,77,409,4,4
+Tuesday,07,утро,False,бизнес,286,seat,24,"Davis, Hale and Hayes",federal,-14,Облачно,19,False,False,True,139,92,126,674,4,3
+Saturday,03,утро,True,эконом,162,safe,24,Preston PLC,order,-5,Солнечно,14,False,True,True,171,159,167,650,5,4
+Friday,01,вечер,False,первый класс,101,use,12,"Mccarthy, Hall and Williams",also,26,Солнечно,41,False,False,False,143,181,131,160,3,2
+Sunday,03,день,False,эконом,207,inside,1,Green Group,garden,32,Снег,40,True,True,False,13,121,164,750,3,2
+Thursday,02,утро,True,бизнес,114,agent,6,Wilkinson LLC,investment,11,Солнечно,18,False,False,False,156,60,91,392,2,3
+Wednesday,10,ночь,True,первый класс,267,have,12,"Petersen, Price and Williams",experience,-7,Облачно,35,False,True,True,81,38,136,989,5,2
+Saturday,11,ночь,False,первый класс,119,traditional,3,"Lee, English and Johnson",oil,29,Дождь,41,False,True,False,119,177,147,491,2,4
+Sunday,08,ночь,False,первый класс,147,property,4,"Villanueva, Martin and Alexander",character,30,Облачно,43,False,False,False,77,82,161,694,4,5
+Friday,06,день,True,первый класс,158,particularly,22,Hicks-White,economic,11,Дождь,14,False,True,False,195,132,235,312,1,5
+Monday,02,день,True,бизнес,202,report,17,Baxter Ltd,nor,21,Облачно,8,True,False,True,135,104,201,278,5,4
+Saturday,09,вечер,True,бизнес,135,music,16,Anthony-Perez,magazine,-3,Дождь,1,True,True,False,87,32,216,464,5,1
+Saturday,06,утро,False,бизнес,192,carry,14,Long-Powell,join,33,Дождь,50,False,False,True,70,198,200,874,1,5
+Monday,05,день,True,первый класс,164,model,12,Peterson-Marsh,Mr,22,Облачно,37,True,False,False,117,53,70,730,5,5
+Friday,08,утро,True,первый класс,137,catch,18,Schultz Group,score,6,Снег,18,False,False,False,70,197,118,619,5,3
+Sunday,08,день,False,эконом,219,plan,19,"Manning, Welch and Hicks",catch,-10,Облачно,22,True,False,False,21,31,160,818,1,4
+Wednesday,07,утро,False,бизнес,6,own,1,Murray-Schmidt,run,-11,Облачно,43,True,False,True,20,42,80,400,5,4
+Monday,07,день,True,первый класс,87,order,8,"Wagner, Vazquez and Snyder",drug,14,Облачно,7,True,True,False,0,163,187,225,4,3
+Tuesday,07,вечер,False,бизнес,42,tend,7,Turner PLC,star,4,Солнечно,25,True,False,True,158,0,287,206,4,5
+Saturday,11,день,True,эконом,103,investment,17,Manning Ltd,summer,7,Снег,39,False,True,False,191,17,219,963,2,3
+Saturday,06,утро,False,бизнес,175,expect,5,"Lawrence, Jackson and Bush",whom,9,Снег,6,False,False,False,143,189,83,646,1,1
+Monday,05,утро,False,бизнес,295,hard,22,"Mason, Barnett and Briggs",we,20,Солнечно,41,True,True,True,38,179,97,286,3,3
+Wednesday,02,вечер,True,эконом,170,south,21,Mckenzie-Henson,because,27,Солнечно,46,False,True,True,11,103,193,446,5,1
+Thursday,12,вечер,True,первый класс,60,car,7,Pena-Graham,forward,29,Солнечно,20,False,False,False,151,122,237,974,1,3
+Monday,09,утро,True,эконом,21,cut,5,"Barber, Alvarez and Dennis",right,5,Снег,21,False,False,True,43,32,128,582,2,3
+Friday,07,ночь,True,первый класс,199,thought,10,"Thompson, Murray and Anderson",just,19,Солнечно,40,False,True,False,38,49,287,478,2,2
+Sunday,08,утро,True,бизнес,193,represent,23,Harris Group,back,17,Солнечно,38,False,False,True,62,5,216,239,4,1
+Sunday,07,утро,True,эконом,268,card,12,Brooks Inc,can,3,Облачно,21,True,False,False,151,25,64,826,4,3
+Friday,03,утро,True,бизнес,223,everyone,22,"Williams, Johnson and Jensen",research,31,Снег,20,False,False,True,63,151,89,774,2,1
+Tuesday,03,вечер,False,эконом,279,throw,23,Sims-Brown,trip,25,Снег,49,True,False,False,128,19,118,356,5,2
+Wednesday,12,ночь,False,эконом,194,lot,23,Wilson LLC,least,-9,Облачно,3,True,True,False,3,103,119,457,3,5
+Thursday,08,ночь,False,эконом,285,student,15,Arnold Group,painting,7,Облачно,2,True,False,True,22,140,139,915,5,2
+Tuesday,12,вечер,False,бизнес,229,TV,20,Gilmore PLC,movie,11,Дождь,31,True,False,True,30,139,52,912,4,2
+Monday,03,утро,False,эконом,40,notice,2,"Smith, Hall and Cowan",wall,-16,Дождь,0,True,True,True,15,135,78,609,2,4
+Thursday,11,вечер,False,эконом,103,middle,12,Mora-Fitzpatrick,until,27,Дождь,48,False,True,False,164,148,230,959,4,4
+Thursday,12,вечер,True,эконом,134,might,2,"Sullivan, Edwards and Green",line,13,Снег,7,False,True,True,176,164,244,251,5,2
+Sunday,10,вечер,True,первый класс,278,big,16,"Brady, Davis and Dennis",run,33,Снег,44,True,True,True,150,66,201,676,1,5
+Tuesday,01,ночь,False,бизнес,19,me,22,"Walker, Edwards and Garcia",girl,-11,Солнечно,25,True,True,True,98,103,133,123,5,1
+Friday,11,ночь,True,бизнес,241,form,14,Pratt-Davis,form,-4,Солнечно,45,False,True,True,94,160,150,813,1,4
+Thursday,05,утро,True,первый класс,247,Republican,15,Winters PLC,million,-17,Облачно,16,True,False,False,139,196,210,355,3,4
+Friday,11,день,False,первый класс,208,pretty,23,"Marshall, Washington and Ramos",song,-10,Снег,6,True,True,False,119,157,66,834,3,5
+Thursday,04,утро,True,эконом,250,church,5,"Duffy, White and Obrien",choose,29,Дождь,34,False,False,True,129,158,84,509,2,2
+Monday,07,ночь,False,эконом,216,pattern,4,"Chapman, Cook and Morris",situation,-3,Солнечно,21,False,True,True,86,17,6,784,1,4
+Saturday,12,день,True,бизнес,63,store,16,"Reilly, Reed and Butler",tend,27,Дождь,36,False,True,True,26,38,67,242,5,5
+Friday,07,вечер,False,первый класс,108,ready,6,"Rose, Stafford and Mcguire",line,-20,Солнечно,35,True,True,True,128,71,143,866,3,3
+Monday,11,день,False,первый класс,5,significant,13,Ryan-Jones,sister,-3,Снег,26,False,True,False,135,25,148,786,2,5
+Friday,10,вечер,True,эконом,84,evening,6,"Hall, Santos and Barber",strong,21,Дождь,21,False,False,False,38,35,210,105,4,4
+Saturday,09,ночь,False,первый класс,124,or,15,Mcbride and Sons,force,13,Облачно,21,False,False,True,23,167,257,492,4,1
+Thursday,10,день,True,эконом,143,contain,11,"Randall, Harvey and Gray",believe,2,Дождь,18,True,False,True,65,106,185,812,3,2
+Monday,11,утро,True,эконом,177,image,16,"Jackson, Santos and Ruiz",traditional,14,Облачно,25,True,True,True,50,147,193,225,4,3
+Wednesday,06,утро,True,первый класс,295,month,3,Nielsen LLC,top,29,Солнечно,21,False,True,False,186,188,72,798,3,1
+Friday,07,ночь,True,эконом,7,face,16,Kirk-Morton,heavy,10,Дождь,31,False,True,False,158,145,282,891,1,1
+Saturday,02,ночь,True,первый класс,180,wait,24,"Hayes, Vargas and Scott",seat,-2,Солнечно,32,False,False,True,96,60,115,100,1,4
+Sunday,12,вечер,False,первый класс,226,quickly,23,"Edwards, Gutierrez and Farrell",cold,-16,Снег,50,True,False,False,94,162,63,697,4,3
+Sunday,07,вечер,True,первый класс,214,customer,9,Wells-Martin,include,-8,Солнечно,27,False,False,True,107,54,292,748,1,4
+Sunday,08,утро,True,бизнес,185,marriage,24,Young-Sweeney,list,-12,Облачно,17,True,True,True,2,4,143,212,2,4
+Sunday,03,вечер,False,первый класс,228,ever,3,Boyd-Owens,look,-9,Облачно,12,True,False,True,53,176,43,799,3,1
+Tuesday,09,ночь,False,эконом,300,peace,2,Bates LLC,customer,15,Солнечно,11,False,True,True,19,45,140,942,4,5
+Wednesday,07,день,False,первый класс,246,central,14,"Williams, Lynch and Cook",country,27,Дождь,37,False,False,True,64,116,131,303,3,2
+Friday,08,вечер,True,первый класс,279,yet,13,"Short, Andrade and Parker",way,13,Облачно,32,True,False,False,116,151,262,227,5,4
+Monday,12,утро,False,эконом,286,street,11,Martinez Inc,hand,2,Солнечно,32,False,False,False,18,167,291,478,4,1
+Tuesday,08,ночь,True,эконом,46,take,24,Olsen LLC,tax,11,Облачно,11,False,False,True,166,34,296,781,1,2
+Friday,08,день,True,бизнес,90,reveal,5,"Garcia, Rivera and Robinson",wonder,21,Снег,38,False,False,False,169,100,237,719,2,2
+Friday,01,день,True,бизнес,175,evidence,8,"Stewart, Morris and Cox",claim,-7,Дождь,2,True,True,False,129,69,230,850,3,2
+Friday,08,день,True,первый класс,271,nation,18,"Rowe, James and Knight",manage,-18,Снег,26,False,False,False,120,170,27,454,4,2
+Friday,06,вечер,False,бизнес,30,position,21,Jackson LLC,white,1,Облачно,21,True,True,False,105,190,205,828,5,2
+Monday,05,ночь,False,первый класс,124,source,19,Flores-Hines,support,-2,Снег,21,False,True,False,45,125,191,184,3,1
+Monday,07,день,False,эконом,271,senior,11,"Strickland, Erickson and Pierce",week,-1,Облачно,42,True,True,True,55,197,151,564,1,4
+Friday,04,утро,True,первый класс,263,outside,9,Garcia-Adams,party,8,Облачно,40,True,True,True,194,177,271,363,3,5
+Friday,12,вечер,True,эконом,193,enjoy,20,"Pacheco, Bentley and Robertson",reflect,33,Дождь,18,True,False,False,107,35,100,572,5,2
+Monday,05,утро,True,первый класс,106,small,21,"Reilly, Sullivan and Gilbert",season,5,Дождь,30,False,False,False,33,115,37,524,5,1
+Wednesday,04,день,True,эконом,170,fast,2,Clark and Sons,after,34,Дождь,0,True,True,True,30,23,176,808,1,1
+Thursday,06,ночь,False,бизнес,94,speak,2,"Gordon, Henry and Thompson",process,2,Дождь,32,False,False,False,188,42,2,858,4,4
+Saturday,12,вечер,False,первый класс,247,civil,21,Allison-Patel,each,13,Облачно,39,True,False,False,142,128,253,426,4,5
+Friday,10,день,False,бизнес,226,man,18,Davis-Ryan,maintain,29,Снег,6,False,False,True,186,158,147,917,4,3
+Wednesday,12,утро,True,бизнес,137,fear,11,Roberts Group,sell,-4,Снег,18,False,True,False,176,60,65,435,1,5
+Saturday,06,утро,True,бизнес,97,others,18,Lee-Frank,son,-2,Снег,18,True,False,True,126,141,172,289,2,4
+Saturday,11,день,True,эконом,156,consumer,13,Sanford-Padilla,would,37,Солнечно,18,True,True,True,25,187,229,492,1,1
+Tuesday,10,день,False,бизнес,181,record,21,"Lang, Stevenson and Green",side,16,Облачно,33,False,False,False,80,200,120,775,2,3
+Wednesday,09,ночь,False,бизнес,105,happy,13,"Mitchell, Austin and Sheppard",forget,1,Солнечно,16,False,False,False,19,126,224,986,3,4
+Thursday,02,ночь,False,первый класс,195,down,17,Smith Inc,base,-17,Облачно,15,True,False,True,105,159,249,286,1,4
+Thursday,10,ночь,False,эконом,112,his,23,"Jones, Garner and Bailey",point,4,Солнечно,40,True,True,True,44,35,127,603,1,3
+Tuesday,08,вечер,False,эконом,240,represent,18,Graves LLC,whole,14,Солнечно,9,False,False,False,118,128,270,689,4,4
+Saturday,04,день,True,эконом,201,new,9,Olson-Wilson,sometimes,3,Облачно,3,False,False,False,17,115,232,292,2,5
+Monday,01,утро,False,бизнес,256,wish,23,"Hawkins, Knight and Rodriguez",operation,30,Облачно,42,False,True,True,22,183,8,209,2,1
+Sunday,09,ночь,False,первый класс,13,rule,23,Wilcox Ltd,provide,-16,Дождь,29,True,False,True,33,108,144,833,5,4
+Saturday,06,ночь,False,бизнес,8,ask,22,Bailey-Hensley,here,-8,Облачно,36,True,True,False,59,127,111,660,2,4
+Tuesday,02,ночь,False,эконом,274,relate,12,Dawson-Ward,nation,-3,Дождь,32,False,True,False,114,60,195,290,4,4
+Monday,05,утро,False,эконом,263,economy,8,"Ho, May and Gonzalez",official,5,Дождь,13,False,False,True,178,69,16,617,3,5
+Monday,09,вечер,False,первый класс,67,approach,4,"Wilson, Brennan and Moss",follow,19,Снег,41,False,False,True,154,13,295,749,2,4
+Sunday,09,вечер,True,первый класс,37,draw,22,Martinez Group,tough,-3,Снег,26,False,True,True,75,183,148,199,5,4
+Friday,11,день,True,первый класс,10,human,8,Floyd Inc,general,13,Облачно,12,False,False,True,153,143,16,200,3,4
+Saturday,11,день,True,эконом,46,car,5,"Thomas, Delgado and Montoya",over,8,Дождь,4,True,True,False,124,6,188,802,2,3
+Friday,09,утро,False,первый класс,178,operation,1,Banks-Shepard,including,-14,Облачно,45,True,True,True,122,3,237,113,5,2
+Tuesday,06,ночь,False,эконом,116,financial,24,Adams Inc,pattern,31,Солнечно,49,False,False,False,27,70,234,205,2,4
+Wednesday,04,день,False,эконом,281,eight,14,Gonzalez PLC,point,34,Солнечно,12,False,True,False,160,65,128,758,1,5
+Saturday,09,вечер,False,первый класс,149,do,10,Fisher and Sons,inside,-11,Снег,9,True,True,False,82,178,137,397,4,3
+Monday,09,день,True,первый класс,92,if,12,Hayes-Miller,choice,-17,Снег,22,True,True,True,10,36,45,925,3,5
+Saturday,03,утро,False,эконом,79,especially,5,Phelps LLC,up,-15,Снег,3,False,False,False,53,127,260,962,1,3
+Thursday,03,утро,True,бизнес,187,actually,13,Sanders-Martin,girl,-1,Дождь,34,True,True,True,20,3,268,708,1,3
+Wednesday,11,утро,True,первый класс,130,child,18,"Payne, Johnson and Berg",risk,34,Снег,16,False,False,False,125,53,159,413,3,5
+Friday,07,день,True,бизнес,35,treatment,17,Harris PLC,wonder,-4,Солнечно,44,True,True,False,131,142,250,601,1,1
+Saturday,08,утро,False,эконом,275,four,14,"Hardy, Glover and Steele",evening,19,Облачно,13,True,True,False,57,185,219,585,3,4
+Saturday,09,день,False,бизнес,298,general,18,"Hill, Moses and Mejia",bag,3,Дождь,10,True,True,False,19,130,176,926,5,3
+Saturday,09,вечер,False,эконом,47,look,18,Anderson-Brewer,could,21,Дождь,36,True,True,False,154,141,220,643,5,4
+Friday,05,день,False,бизнес,84,dog,24,"Martin, Williams and Miller",describe,27,Облачно,6,False,False,False,70,188,40,265,3,1
+Saturday,04,ночь,False,первый класс,188,type,3,"King, Davis and Mendoza",site,3,Облачно,30,False,True,False,159,170,187,890,3,3
+Saturday,05,день,True,бизнес,270,future,7,"Perry, Ryan and Mejia",speak,7,Облачно,20,False,True,True,59,179,219,555,1,4
+Wednesday,12,ночь,False,бизнес,187,service,23,Murillo-Austin,difference,4,Солнечно,16,False,False,False,160,69,144,528,3,5
+Saturday,10,утро,False,бизнес,74,process,7,Carpenter-Contreras,class,-5,Снег,1,True,False,True,50,41,152,170,3,5
+Sunday,11,вечер,True,первый класс,90,usually,12,"Morris, Evans and White",option,28,Дождь,10,False,True,False,176,160,294,414,1,4
+Saturday,09,утро,False,эконом,97,popular,22,"Savage, Long and Davis",market,3,Дождь,14,False,False,True,8,36,192,718,2,2
+Friday,07,вечер,True,первый класс,56,film,22,Parks-Fisher,mother,29,Снег,9,False,True,True,164,34,251,991,2,5
+Thursday,07,ночь,True,бизнес,212,relationship,9,"Hernandez, Lee and Howard",message,39,Солнечно,18,False,True,True,171,152,118,538,2,5
+Tuesday,02,утро,False,эконом,1,dog,2,"Anthony, Grimes and Combs",huge,28,Дождь,27,False,False,False,107,167,295,307,4,4
+Friday,07,день,True,первый класс,90,Democrat,11,"Weber, Miller and Flores",common,34,Облачно,19,False,True,False,55,164,224,151,4,5
+Friday,05,утро,False,бизнес,250,leg,20,Johnson-Torres,safe,0,Солнечно,29,True,True,True,57,82,191,430,4,3
+Thursday,09,вечер,False,первый класс,282,later,12,Thomas LLC,sure,-14,Снег,43,False,True,False,19,164,272,258,4,3
+Tuesday,04,день,True,эконом,117,stop,5,Bennett and Sons,notice,29,Облачно,14,True,False,False,35,197,47,460,2,3
+Thursday,10,вечер,False,бизнес,212,senior,8,Fuller-Clark,you,3,Дождь,47,False,False,False,33,44,70,917,4,3
+Friday,04,утро,True,бизнес,265,kitchen,23,"Hall, Brooks and Brown",beyond,16,Снег,7,False,False,True,86,154,152,242,5,4
+Wednesday,12,день,False,бизнес,112,strong,11,Carroll LLC,population,5,Дождь,22,True,True,False,44,199,12,324,5,5
+Friday,02,утро,True,эконом,8,pull,20,"Mata, Thomas and Stone",performance,26,Облачно,24,True,True,False,80,136,101,519,4,3
+Sunday,10,вечер,True,эконом,266,that,3,White and Sons,across,28,Облачно,24,True,True,True,60,143,161,780,2,1
+Monday,09,ночь,False,бизнес,201,determine,6,Owens and Sons,marriage,-1,Солнечно,50,True,False,False,199,115,212,243,1,2
+Sunday,08,вечер,False,бизнес,186,appear,6,Smith LLC,concern,-7,Снег,39,True,True,True,122,17,295,828,1,4
+Tuesday,08,вечер,False,бизнес,140,his,19,Castaneda-Jacobs,moment,24,Дождь,14,False,True,False,101,112,19,131,1,5
+Sunday,01,день,False,бизнес,71,during,4,Tucker Ltd,child,9,Снег,2,False,True,False,152,163,166,691,2,2
+Tuesday,11,ночь,False,первый класс,14,one,13,"Johnson, Olson and Campbell",already,-4,Дождь,49,True,True,False,142,86,124,626,2,5
+Friday,10,вечер,False,первый класс,84,arm,10,Carrillo LLC,because,32,Солнечно,29,False,False,True,188,195,141,521,5,3
+Tuesday,09,вечер,True,бизнес,22,word,22,White-Jensen,story,5,Облачно,43,False,False,False,138,194,266,711,2,5
+Monday,01,вечер,False,бизнес,254,sign,17,Tucker PLC,range,30,Солнечно,5,True,False,True,133,165,11,593,5,5
+Tuesday,04,день,True,эконом,110,building,19,Craig-Reyes,over,20,Облачно,50,True,True,False,140,31,34,674,2,3
+Sunday,08,вечер,True,бизнес,293,soldier,6,Jackson Inc,fine,16,Снег,33,True,False,False,30,39,40,441,3,1
+Sunday,02,ночь,True,первый класс,196,prove,22,Carter-Garcia,authority,-13,Солнечно,37,False,True,False,86,12,150,789,1,4
+Sunday,04,утро,True,бизнес,202,my,18,Stewart PLC,peace,26,Снег,18,True,False,True,149,151,246,877,4,4
+Friday,06,ночь,True,эконом,201,claim,9,Garrett PLC,consumer,-5,Облачно,4,False,False,True,29,200,238,232,1,5
+Sunday,08,день,False,бизнес,156,trade,21,"Peters, Patterson and Davis",camera,9,Дождь,8,True,True,False,3,110,231,357,1,5
+Saturday,11,утро,True,бизнес,155,tree,22,"Ellison, Henry and Tran",fact,-15,Снег,28,False,True,False,51,196,145,309,1,1
+Sunday,02,день,True,эконом,184,any,7,"Dickerson, Lynch and Wilson",similar,6,Солнечно,44,False,True,True,105,124,156,901,3,3
+Thursday,07,утро,True,эконом,3,care,2,Martin-Green,crime,29,Солнечно,45,True,False,True,178,153,252,381,5,3
+Saturday,08,вечер,True,первый класс,238,minute,1,Maxwell-Sanchez,rise,25,Облачно,16,False,False,True,188,87,63,436,3,5
+Saturday,08,вечер,True,бизнес,102,animal,24,Thompson Inc,six,29,Облачно,29,True,False,False,173,165,107,870,4,3
+Sunday,01,утро,False,бизнес,223,school,20,Delgado and Sons,take,-5,Дождь,44,True,True,False,132,172,238,784,2,5
+Sunday,03,вечер,True,первый класс,220,reality,2,"Hart, Sullivan and Tucker",staff,30,Снег,4,False,True,False,172,38,192,371,1,4
+Saturday,01,ночь,False,первый класс,218,us,14,"Mcfarland, Carrillo and Bowman",new,-1,Дождь,13,True,True,True,69,49,75,492,3,5
+Wednesday,04,ночь,False,первый класс,176,natural,19,Dickerson and Sons,wife,-13,Дождь,38,True,False,True,41,69,63,743,2,5
+Friday,02,вечер,True,эконом,63,you,22,Simmons-Brooks,reach,12,Снег,22,False,True,False,110,183,47,505,5,1
+Saturday,05,день,False,первый класс,58,pattern,16,Thomas Inc,admit,13,Солнечно,49,True,False,False,51,74,249,982,4,2
+Saturday,07,день,True,эконом,30,director,22,"Johnson, Brown and Harris",note,36,Снег,25,False,False,True,11,133,137,404,1,2
+Sunday,03,ночь,False,эконом,98,discuss,2,"Zamora, Madden and Smith",image,5,Дождь,37,False,False,False,70,55,88,493,2,2
+Sunday,10,ночь,False,эконом,101,stuff,6,Miller-Warner,response,34,Облачно,24,False,False,True,64,163,138,171,2,1
+Thursday,03,вечер,False,первый класс,298,animal,11,Lucas LLC,rather,38,Дождь,47,True,True,False,54,128,19,649,4,3
+Sunday,11,вечер,False,эконом,159,after,16,"Bates, Crosby and Lewis",think,-11,Облачно,31,True,False,False,134,41,218,522,4,1
+Tuesday,08,утро,True,бизнес,208,fear,11,Garcia PLC,strong,14,Снег,4,True,False,False,23,136,213,823,1,5
+Tuesday,03,ночь,False,эконом,157,sound,2,Jones-Davis,data,-18,Снег,28,True,False,True,133,144,46,908,1,4
+Monday,02,день,False,бизнес,279,late,11,"Lawrence, Jones and Barron",center,30,Облачно,8,False,True,False,9,65,71,913,3,2
+Wednesday,06,день,False,первый класс,210,possible,19,Dickerson-Hoover,participant,-8,Облачно,33,True,True,True,12,98,193,130,1,5
+Sunday,10,утро,True,эконом,7,Mrs,18,Taylor Ltd,pretty,32,Солнечно,26,False,False,True,150,12,286,522,5,1
+Sunday,03,утро,False,первый класс,31,my,6,"Tapia, Vaughan and Stanton",next,1,Снег,40,False,False,False,87,29,219,484,1,1
+Wednesday,07,день,False,бизнес,18,whose,7,Wilson PLC,single,7,Дождь,8,True,True,True,15,54,104,635,4,2
+Wednesday,03,вечер,True,первый класс,180,question,14,Miller-Jones,especially,-18,Дождь,11,True,True,False,14,65,204,875,4,2
+Wednesday,08,ночь,False,эконом,55,present,9,"Holland, Rangel and Ward",respond,32,Дождь,26,True,False,True,142,55,50,821,5,4
+Friday,01,утро,False,первый класс,165,cup,3,Gallegos LLC,information,15,Снег,26,False,True,False,155,164,38,518,2,4
+Thursday,08,утро,False,первый класс,69,cell,7,"Mitchell, Anderson and Wolf",its,30,Облачно,9,True,True,True,188,95,85,794,4,3
+Wednesday,09,ночь,True,эконом,206,place,17,Carney-Sharp,large,39,Дождь,10,True,True,False,147,165,116,597,2,1
+Saturday,11,утро,True,первый класс,6,quite,9,Miller-Lopez,final,9,Дождь,31,True,True,False,0,187,213,551,2,4
+Thursday,05,вечер,True,эконом,217,have,13,Knapp-Flores,concern,21,Облачно,1,False,False,True,85,124,144,564,3,3
+Tuesday,07,вечер,True,первый класс,179,professional,8,"Wells, Newman and Shelton",agent,37,Дождь,36,True,True,True,49,59,137,867,4,4
+Friday,09,ночь,False,эконом,269,subject,12,"Castaneda, Beck and Stuart",time,40,Снег,39,True,True,False,151,111,286,581,4,4
+Monday,04,утро,False,эконом,174,audience,16,Peterson Group,next,11,Снег,38,False,False,False,53,30,22,444,1,1
+Thursday,01,день,True,бизнес,265,subject,18,Moore and Sons,medical,-3,Дождь,10,True,False,False,181,114,51,314,4,2
+Wednesday,11,утро,True,первый класс,71,worry,8,Duran Group,region,36,Снег,27,True,False,True,109,195,222,231,4,5
+Tuesday,11,утро,False,эконом,7,former,14,"Perkins, Williams and Frazier",myself,11,Снег,32,False,True,False,114,90,108,227,5,5
+Saturday,11,ночь,False,первый класс,250,everyone,3,Anderson-Thornton,amount,0,Снег,24,True,True,False,184,62,103,643,2,1
+Monday,06,ночь,False,бизнес,166,drive,8,Moyer LLC,major,0,Дождь,44,False,False,True,80,4,133,532,1,4
+Friday,06,ночь,True,эконом,87,only,22,Kelley PLC,something,11,Снег,43,False,True,False,152,154,219,108,2,4
+Sunday,01,вечер,True,первый класс,228,herself,8,"Potter, Miller and Mcfarland",support,-17,Дождь,18,True,False,False,160,147,253,449,3,1
+Wednesday,05,ночь,True,эконом,67,someone,17,Stanley Group,by,12,Солнечно,48,False,False,False,76,122,16,253,1,4
+Sunday,12,утро,False,первый класс,203,oil,17,"Wilson, Willis and Gill",language,-10,Снег,41,False,False,True,7,51,245,721,3,5
+Monday,05,ночь,True,бизнес,297,especially,6,Smith Ltd,no,5,Снег,26,True,False,True,116,21,202,197,2,4
+Wednesday,01,утро,True,эконом,289,fine,24,Newman-Schmidt,then,-5,Солнечно,21,True,False,False,157,106,115,532,3,5
+Wednesday,10,ночь,True,первый класс,160,news,1,Jimenez-Garrett,white,12,Облачно,50,True,True,False,76,117,182,838,2,5
+Friday,08,утро,True,первый класс,96,subject,8,Taylor-Torres,ability,9,Облачно,18,True,True,False,10,76,128,708,2,2
+Monday,12,утро,True,эконом,49,product,16,Nguyen-Richard,involve,-7,Облачно,20,False,False,False,66,54,44,300,3,4
+Thursday,06,день,False,бизнес,103,meeting,5,"Robles, Mendoza and Moore",radio,-19,Облачно,7,False,False,False,187,166,190,111,2,1
+Friday,12,утро,True,бизнес,289,who,17,Owens Inc,official,1,Снег,32,True,False,False,78,115,245,730,4,4
+Wednesday,03,утро,False,эконом,13,civil,17,Faulkner-Perez,fly,-11,Солнечно,29,False,True,True,56,146,222,136,3,2
+Friday,02,утро,False,бизнес,254,foreign,17,Simmons-Kelly,page,28,Снег,46,True,True,True,154,197,11,852,1,4
+Thursday,06,ночь,True,эконом,269,participant,10,Jenkins Group,plant,-7,Дождь,16,True,True,False,45,150,238,863,4,1
+Tuesday,02,вечер,False,эконом,125,building,1,"Pearson, Santos and Williams",floor,22,Солнечно,19,False,True,True,198,128,159,475,2,2
+Monday,09,вечер,True,эконом,67,decide,1,Brown-Rodriguez,for,29,Солнечно,40,False,True,True,157,192,137,248,3,5
+Wednesday,04,вечер,False,бизнес,275,near,1,Johnson-West,beautiful,15,Облачно,14,True,True,False,47,75,173,381,2,3
+Tuesday,10,день,True,бизнес,240,glass,4,Martin-Evans,part,15,Облачно,9,True,False,False,60,18,72,816,5,5
+Tuesday,01,утро,False,эконом,24,become,21,"Robinson, Matthews and Bates",seven,16,Дождь,32,False,True,False,161,178,132,672,4,5
+Sunday,09,ночь,True,эконом,193,interesting,2,Bell-Holmes,structure,-2,Снег,29,True,True,False,157,184,179,416,2,1
+Friday,08,утро,True,эконом,27,of,22,Butler Ltd,particularly,10,Облачно,46,True,False,False,140,109,70,584,1,5
+Saturday,09,день,False,первый класс,158,own,23,Evans PLC,my,4,Облачно,7,True,True,False,67,77,26,148,4,5
+Monday,04,утро,False,первый класс,255,note,15,"Davis, Aguirre and Johnson",base,-7,Солнечно,50,False,True,False,51,141,116,639,5,5
+Friday,10,утро,False,первый класс,26,serve,12,Ruiz-Harris,possible,-16,Дождь,37,False,False,False,37,183,290,421,3,5
+Sunday,01,вечер,True,первый класс,84,figure,11,Martinez Group,beat,-9,Облачно,29,False,False,False,96,41,133,982,3,4
+Friday,12,ночь,False,эконом,222,list,18,"Manning, Terrell and Mendoza",thank,-13,Дождь,31,True,False,True,16,174,147,642,5,4
+Friday,03,ночь,True,бизнес,68,majority,1,Miller-Robertson,feel,5,Дождь,23,False,False,True,51,20,109,302,2,2
+Tuesday,05,утро,False,первый класс,134,paper,20,Burns and Sons,house,-16,Облачно,21,False,True,True,167,197,115,526,5,2
+Tuesday,01,день,False,эконом,177,bed,15,Smith PLC,control,4,Облачно,34,True,True,False,159,52,109,393,5,4
+Sunday,08,утро,False,эконом,121,claim,3,"King, Carpenter and Washington",increase,-6,Солнечно,46,True,True,True,176,180,210,133,1,4
+Tuesday,12,утро,True,эконом,281,data,7,Perkins-Bowers,college,-4,Солнечно,14,False,False,True,147,90,147,497,5,1
+Saturday,07,утро,False,бизнес,176,remember,17,Johnson-Long,visit,23,Дождь,46,False,False,False,49,11,51,114,3,4
+Friday,05,день,False,бизнес,139,economic,18,Robinson PLC,long,14,Солнечно,2,True,False,True,71,199,49,927,1,5
+Friday,04,ночь,False,первый класс,161,enough,8,Parker-Hernandez,page,30,Солнечно,31,True,False,True,160,3,191,765,2,1
+Thursday,02,ночь,False,первый класс,53,politics,2,Anderson and Sons,sport,7,Дождь,20,False,True,False,41,131,39,302,1,2
+Tuesday,06,утро,True,эконом,73,computer,10,Clark-Lyons,focus,25,Дождь,49,False,False,False,134,136,116,173,1,2
+Friday,09,вечер,True,бизнес,107,president,1,Callahan Ltd,scene,13,Облачно,0,True,True,True,131,165,220,662,1,4
+Wednesday,05,утро,False,бизнес,273,whole,2,"Williams, Waters and James",piece,39,Солнечно,8,False,True,False,80,57,30,653,2,3
+Tuesday,06,утро,True,первый класс,158,American,4,Woodard-White,wear,38,Облачно,33,False,True,False,130,40,82,972,4,4
+Saturday,11,ночь,False,бизнес,235,protect,13,Brooks Inc,exist,30,Облачно,22,False,False,True,30,169,292,271,1,5
+Friday,11,вечер,True,бизнес,94,explain,23,"Drake, Howell and Montgomery",stop,7,Снег,40,False,True,False,75,19,250,864,4,5
+Saturday,01,ночь,True,первый класс,197,phone,3,Lawrence PLC,my,31,Снег,5,True,True,True,79,112,25,326,5,4
+Tuesday,06,вечер,False,эконом,263,policy,6,"Larson, Thompson and Blevins",finish,20,Солнечно,31,False,True,True,151,83,173,989,3,2
+Wednesday,08,день,True,первый класс,17,their,13,Nguyen LLC,argue,30,Солнечно,46,False,False,True,24,126,16,247,3,3
+Monday,08,день,True,первый класс,167,interview,6,Murphy-Nunez,tend,34,Дождь,10,False,True,False,43,149,53,676,3,4
+Friday,11,вечер,True,первый класс,113,religious,19,Cruz-Russell,trip,19,Снег,7,True,True,True,39,193,295,876,5,5
+Wednesday,05,утро,False,бизнес,151,fish,18,"Ellis, Christensen and Warner",answer,-18,Облачно,26,False,False,False,186,119,274,729,5,2
+Wednesday,05,ночь,True,бизнес,97,attorney,20,Terry LLC,home,25,Солнечно,10,False,True,False,162,86,19,653,3,4
+Wednesday,02,утро,False,бизнес,151,ball,15,Henson PLC,popular,16,Солнечно,2,True,True,True,154,175,32,244,5,2
+Friday,10,утро,False,бизнес,107,decide,18,Osborne-Stewart,exactly,37,Снег,21,True,False,False,18,173,252,382,5,5
+Saturday,11,ночь,False,эконом,180,property,9,Hughes-Wood,leg,-18,Солнечно,45,True,False,False,45,116,237,785,3,1
+Monday,02,утро,False,эконом,154,look,3,Miranda PLC,yet,1,Облачно,34,False,True,True,183,90,288,714,5,2
+Tuesday,05,утро,True,эконом,170,character,5,Daniels Inc,wife,-19,Дождь,34,True,True,False,114,77,41,433,2,5
+Sunday,03,ночь,False,бизнес,254,draw,7,"Mccullough, Garcia and Wilson",according,28,Снег,49,True,False,True,41,132,271,665,3,5
+Thursday,07,ночь,True,бизнес,55,side,24,Huang-Nelson,question,21,Солнечно,41,True,False,True,200,48,135,742,3,1
+Wednesday,08,утро,False,эконом,151,follow,19,Stewart Inc,Democrat,37,Солнечно,40,False,True,True,126,167,72,309,2,2
+Wednesday,02,день,False,бизнес,199,leader,21,Hernandez PLC,describe,-7,Солнечно,22,True,True,True,9,16,202,839,1,3
+Sunday,02,утро,True,первый класс,115,before,4,Santiago-Moreno,game,-15,Дождь,38,False,True,True,50,194,22,328,3,5
+Saturday,02,ночь,False,первый класс,85,like,1,Thomas Inc,leg,-11,Солнечно,8,True,False,False,76,40,282,508,3,2
+Thursday,07,вечер,False,первый класс,149,station,18,"Sutton, Brown and Lawrence",have,-1,Солнечно,22,False,True,True,160,150,174,900,3,1
+Friday,08,утро,True,бизнес,104,might,22,Leon-Hogan,speech,-1,Дождь,13,False,True,False,77,168,249,725,2,2
+Saturday,06,ночь,False,бизнес,78,next,15,"Cook, Allen and Nguyen",return,22,Снег,39,True,False,True,18,141,275,419,2,5
+Monday,05,день,False,первый класс,203,character,17,Morales-Ruiz,director,25,Дождь,33,False,False,True,139,180,84,987,3,2
+Tuesday,11,день,True,эконом,254,evening,6,Rivas and Sons,machine,24,Дождь,14,True,True,True,189,81,182,242,4,4
+Wednesday,10,день,True,бизнес,266,agent,11,Edwards-Smith,human,38,Солнечно,49,True,True,True,189,62,14,707,2,5
+Wednesday,01,ночь,False,бизнес,153,eat,3,Hamilton Inc,those,38,Снег,20,False,False,True,129,84,157,984,4,2
+Monday,04,ночь,True,бизнес,248,week,18,Morgan-Phillips,all,23,Облачно,25,True,False,False,150,157,170,892,3,2
+Thursday,02,вечер,True,первый класс,192,sense,18,Baker-Elliott,all,0,Дождь,47,True,False,True,103,190,278,368,2,4
+Tuesday,08,ночь,True,первый класс,5,idea,5,"Dunn, Middleton and Colon",usually,-2,Снег,7,True,True,True,197,167,223,120,2,2
+Monday,03,вечер,False,первый класс,15,me,4,"Christensen, Simmons and Roman",wonder,-16,Снег,26,True,False,False,12,140,95,460,4,5
+Monday,12,утро,True,эконом,153,collection,9,Brooks-Martinez,son,-2,Облачно,10,False,False,True,109,91,241,814,2,1
+Friday,01,вечер,True,первый класс,251,scientist,11,Parker-Williams,usually,-11,Дождь,7,True,True,False,149,79,99,419,5,2
+Friday,07,утро,True,первый класс,201,alone,4,"Mitchell, Walker and Tucker",middle,2,Солнечно,49,True,False,True,6,4,115,602,2,1
+Tuesday,11,день,False,первый класс,75,action,23,"Hutchinson, Ruiz and Nelson",pay,32,Солнечно,12,True,False,False,88,102,153,964,3,5
+Sunday,07,вечер,True,первый класс,131,cost,8,"Mcgee, Berry and Oliver",after,24,Солнечно,16,True,True,False,137,191,286,416,4,1
+Friday,11,ночь,True,эконом,284,guess,12,Garcia and Sons,pattern,16,Дождь,40,False,True,True,111,166,58,292,5,2
+Monday,02,ночь,False,бизнес,92,high,20,"Allen, Sosa and Hernandez",ask,28,Солнечно,13,False,True,True,119,155,29,287,4,3
+Wednesday,02,утро,False,первый класс,19,threat,16,Sanchez-White,investment,17,Дождь,19,True,False,True,182,19,137,514,4,5
+Saturday,07,вечер,True,бизнес,153,road,10,Sutton-Williams,lot,19,Облачно,42,False,False,False,32,9,213,440,1,2
+Tuesday,10,день,False,первый класс,114,right,22,Lowe and Sons,sister,20,Дождь,33,False,False,False,123,69,125,994,4,4
+Thursday,02,день,True,эконом,184,blood,10,Burke-Floyd,white,-5,Дождь,35,False,True,True,3,93,83,774,3,2
+Wednesday,03,ночь,False,эконом,261,old,9,Leonard and Sons,oil,35,Снег,43,True,True,False,141,90,293,691,4,4
+Saturday,11,вечер,True,бизнес,274,example,1,"Rios, Ellis and Solis",administration,1,Дождь,20,False,False,True,197,60,59,340,1,3
+Friday,02,день,True,эконом,245,lawyer,4,Mcdaniel Ltd,fear,-11,Снег,5,True,True,False,187,170,109,431,2,1
+Saturday,03,утро,False,бизнес,251,clearly,6,Vincent-Harrison,many,26,Снег,40,False,False,True,131,61,34,863,1,1
+Thursday,10,вечер,False,эконом,240,term,12,"Reilly, Osborn and Hoffman",memory,-12,Дождь,43,True,True,False,86,174,210,713,4,4
+Friday,09,ночь,False,эконом,8,institution,17,"Watson, Jordan and Anthony",knowledge,33,Облачно,44,False,True,True,56,74,235,921,4,4
+Wednesday,04,утро,True,бизнес,89,whom,6,Allen-Holmes,want,30,Дождь,1,False,True,True,140,48,252,885,1,3
+Friday,11,день,True,бизнес,261,green,21,Moore-Green,traditional,-3,Снег,19,True,True,False,46,115,272,963,1,1
+Sunday,10,утро,False,эконом,207,happy,16,"Brown, Carson and Perez",area,12,Снег,49,False,True,True,83,149,82,725,1,4
+Saturday,01,ночь,True,бизнес,60,soldier,1,"Page, Frazier and Frazier",recently,17,Дождь,20,False,True,False,84,75,57,1000,2,1
+Thursday,09,ночь,False,эконом,3,here,16,"Sullivan, Patterson and Ochoa",nice,16,Облачно,20,False,False,True,98,136,182,732,3,4
+Sunday,07,день,True,бизнес,55,team,16,Terry LLC,executive,26,Дождь,39,False,False,True,174,49,144,934,5,5
+Monday,06,утро,True,эконом,102,end,20,Mccullough PLC,expect,31,Дождь,27,True,True,True,123,142,56,546,1,3
+Tuesday,07,день,False,эконом,203,cultural,16,Snyder and Sons,mouth,37,Снег,45,False,False,False,119,83,16,471,4,2
+Thursday,08,день,False,эконом,250,think,2,"Jacobs, Hess and Jones",party,14,Облачно,41,True,False,True,69,83,277,449,4,1
+Wednesday,10,утро,True,бизнес,225,deep,8,Cooper PLC,market,14,Дождь,44,True,True,True,52,82,275,979,2,4
+Sunday,12,ночь,True,бизнес,213,industry,14,Moss-Chung,effort,33,Облачно,12,True,False,True,67,135,110,128,5,2
+Monday,06,день,True,эконом,130,risk,4,Cook-Snyder,case,26,Солнечно,33,True,False,True,187,195,295,202,2,4
+Monday,10,день,True,эконом,64,threat,16,Stout Ltd,store,-13,Дождь,7,True,True,False,138,153,168,809,1,2
+Saturday,12,утро,True,эконом,265,strategy,9,"Colon, Barrera and Maldonado",military,14,Солнечно,49,True,True,False,53,117,9,728,3,2
+Thursday,01,день,True,первый класс,245,everything,18,"Sanders, Johnson and Campos",thing,27,Снег,13,True,True,False,2,93,54,306,4,5
+Wednesday,12,ночь,False,первый класс,142,live,15,Park Ltd,why,2,Дождь,29,False,False,True,155,181,275,795,4,1
+Friday,12,день,True,первый класс,30,generation,6,"Hopkins, Gibson and Marshall",personal,-10,Солнечно,30,False,True,True,167,97,123,538,2,3
+Tuesday,08,ночь,True,эконом,243,real,18,Boyle Inc,spend,2,Облачно,3,True,True,True,140,46,74,409,3,4
+Wednesday,11,ночь,True,бизнес,174,those,3,Johnson LLC,grow,21,Облачно,18,False,False,True,181,116,107,990,2,2
+Sunday,03,ночь,True,первый класс,24,well,16,Ramirez-Winters,total,-9,Солнечно,49,True,False,False,78,72,52,653,5,3
+Friday,07,ночь,False,эконом,174,stock,18,"Watson, Nguyen and Vazquez",west,26,Дождь,14,False,False,False,183,200,92,259,5,1
+Monday,06,ночь,False,первый класс,44,American,4,Cervantes-Mills,executive,21,Снег,50,False,True,True,136,55,192,204,5,3
+Thursday,01,ночь,True,первый класс,211,young,5,"Johnson, Bailey and Brown",receive,-7,Облачно,26,True,False,True,190,137,53,948,2,5
+Friday,06,вечер,False,эконом,284,enjoy,12,Ryan-Chen,lawyer,8,Солнечно,8,True,False,True,59,173,276,341,2,1
+Saturday,08,вечер,True,эконом,122,one,4,Horton Group,who,31,Облачно,46,False,True,False,1,197,32,712,3,1
+Thursday,01,ночь,True,эконом,107,my,24,"Jones, Obrien and Mitchell",experience,26,Облачно,18,True,False,False,31,114,247,690,1,5
+Sunday,01,вечер,True,первый класс,220,help,12,Kelley and Sons,range,32,Солнечно,25,False,False,False,152,122,247,623,5,1
+Wednesday,07,вечер,True,бизнес,21,president,13,Ayala-Sandoval,at,-17,Снег,25,False,False,True,110,71,245,208,4,4
+Thursday,12,ночь,True,первый класс,6,nothing,21,Smith-Wilson,here,-16,Облачно,10,False,True,True,0,167,146,408,1,4
+Thursday,07,утро,False,бизнес,270,system,2,Savage Group,toward,-17,Дождь,4,False,False,True,187,187,91,252,1,3
+Sunday,11,вечер,False,бизнес,76,stock,19,Friedman Inc,question,28,Снег,18,False,False,False,71,161,260,755,2,4
+Wednesday,04,вечер,False,эконом,54,argue,5,Lambert-Weaver,source,-18,Снег,3,False,True,True,54,133,141,728,4,2
+Sunday,12,день,True,бизнес,195,civil,8,"Graves, Munoz and Bell",interesting,15,Солнечно,38,False,True,False,124,198,66,419,1,5
+Thursday,03,ночь,False,эконом,261,sort,12,Ford PLC,teacher,22,Солнечно,29,True,True,True,30,62,117,932,3,4
+Tuesday,10,утро,False,первый класс,140,win,24,"Church, Lyons and Long",way,-9,Дождь,47,False,False,False,78,67,269,775,5,5
+Monday,03,ночь,False,эконом,144,indeed,4,"Davis, Harvey and Elliott",way,29,Дождь,38,False,False,False,99,6,151,298,1,5
+Thursday,01,ночь,True,бизнес,287,follow,24,"Wells, Parker and Day",live,33,Дождь,44,True,True,True,177,56,83,887,5,2
+Wednesday,12,вечер,True,бизнес,175,area,1,Turner and Sons,similar,6,Облачно,45,False,True,True,87,129,45,713,3,5
+Thursday,04,день,True,эконом,146,week,23,"Jones, Cummings and Davis",identify,35,Снег,15,False,False,True,56,45,57,858,5,4
+Sunday,06,день,True,бизнес,184,meet,12,Davis Group,national,28,Облачно,23,False,True,True,95,173,125,305,5,4
+Thursday,06,день,False,бизнес,70,subject,19,"Higgins, Wilson and Shaw",beautiful,31,Солнечно,24,True,True,False,118,143,260,223,4,1
+Sunday,09,день,False,эконом,14,investment,11,"Smith, Weiss and Hancock",prove,19,Дождь,28,False,True,False,196,1,115,709,3,5
+Saturday,05,ночь,False,эконом,287,church,22,Oliver-Harrell,play,10,Снег,14,False,False,True,0,6,273,138,1,5
+Monday,12,вечер,True,бизнес,60,believe,21,Harper Ltd,writer,5,Солнечно,0,True,False,False,182,46,247,419,4,2
+Saturday,01,вечер,True,бизнес,114,likely,15,Garza-Taylor,something,14,Солнечно,24,False,False,False,64,35,284,649,4,1
+Sunday,06,вечер,False,первый класс,219,until,24,Keith Ltd,civil,11,Дождь,24,False,True,True,153,20,115,963,4,1
+Tuesday,11,день,False,бизнес,256,cup,23,Bright Ltd,support,-19,Облачно,22,False,True,True,129,63,25,734,5,2
+Saturday,10,утро,True,первый класс,39,guy,12,"Mitchell, Compton and Blackwell",thousand,-11,Дождь,45,True,True,True,83,199,137,705,3,4
+Monday,01,ночь,False,бизнес,43,audience,2,Perez-Reyes,source,-4,Снег,2,False,False,False,26,44,56,865,4,1
+Sunday,06,день,False,бизнес,4,old,24,Jones Inc,home,-5,Облачно,21,True,True,False,1,144,31,438,1,3
+Wednesday,09,ночь,False,первый класс,233,behind,13,"Hunt, Garcia and Bailey",beyond,-14,Облачно,3,True,False,True,115,27,22,634,3,1
+Sunday,04,день,True,эконом,124,give,13,"Rosales, Parker and Mayer",member,29,Солнечно,28,True,True,True,122,188,276,531,5,5
+Monday,04,утро,False,эконом,153,interesting,17,Stevenson and Sons,simple,8,Облачно,24,False,True,False,66,8,39,594,2,2
+Monday,05,утро,False,бизнес,58,single,16,Turner-Rangel,build,-15,Облачно,31,True,True,False,61,153,295,923,4,3
+Monday,04,вечер,True,первый класс,159,onto,22,"Rivera, Valenzuela and Perez",already,26,Облачно,33,True,True,False,196,40,85,103,4,5
+Friday,08,вечер,True,эконом,117,fund,4,Singleton-Moore,song,37,Дождь,10,True,True,True,127,37,223,158,4,4
+Monday,07,день,True,эконом,226,upon,18,"Howell, Gibbs and Hall",both,0,Солнечно,49,True,True,False,87,69,230,872,3,3
+Sunday,05,утро,True,эконом,241,mother,8,"Newton, Goodman and Reynolds",life,37,Солнечно,15,True,False,True,29,147,128,155,1,1
+Friday,02,утро,True,эконом,270,yes,16,Washington Ltd,color,-11,Солнечно,22,False,False,True,34,82,65,729,1,1
+Thursday,09,ночь,True,первый класс,109,perhaps,15,Mcclure Inc,production,29,Снег,41,True,False,True,17,164,233,492,2,2
+Sunday,11,утро,True,эконом,189,month,18,"Wheeler, Russell and Hernandez",foreign,-15,Дождь,24,True,True,True,99,140,183,918,4,5
+Sunday,02,вечер,True,бизнес,268,significant,20,Rodriguez and Sons,national,23,Снег,49,True,False,False,183,143,254,652,5,5
+Saturday,10,вечер,False,эконом,52,many,1,Morgan and Sons,whose,-2,Солнечно,23,False,False,True,86,21,46,889,3,5
+Saturday,05,вечер,False,первый класс,41,candidate,4,"Wheeler, Johnson and Owens",shake,14,Дождь,37,True,False,True,151,138,99,897,4,4
+Friday,01,ночь,False,первый класс,216,idea,22,Blake-Cox,government,40,Снег,12,True,True,False,45,155,105,690,4,2
+Wednesday,04,вечер,False,первый класс,158,discussion,22,"Murillo, Bentley and Buckley",major,-13,Снег,15,False,True,True,39,126,6,742,1,1
+Thursday,02,вечер,False,эконом,223,ask,3,Miller-Barker,event,21,Солнечно,1,True,False,True,196,135,205,141,2,2
+Thursday,01,день,False,эконом,211,soon,5,Bailey-Mitchell,learn,36,Дождь,1,True,True,False,160,102,34,882,1,2
+Sunday,01,ночь,True,первый класс,16,treatment,19,"Malone, Pierce and Miller",fear,22,Дождь,44,True,True,False,103,77,249,644,2,3
+Sunday,12,утро,True,бизнес,23,indeed,4,Kline-Davis,in,1,Дождь,17,True,False,True,118,103,276,331,1,4
+Saturday,02,вечер,False,бизнес,0,color,22,Orozco-Hurley,suddenly,33,Солнечно,20,True,False,True,77,59,193,305,4,5
+Wednesday,05,вечер,True,эконом,164,me,2,Nichols-Edwards,line,2,Дождь,9,False,False,True,85,32,218,303,4,1
+Saturday,02,день,False,эконом,39,clearly,13,Salazar Ltd,pretty,30,Солнечно,22,False,True,False,111,126,255,873,5,4
+Wednesday,04,день,True,бизнес,21,time,14,Stevens-Gaines,great,-13,Снег,13,True,True,True,184,98,101,368,4,3
+Tuesday,07,день,True,эконом,276,indeed,12,"Ruiz, Cole and Fowler",else,20,Облачно,19,False,True,False,153,190,119,893,5,5
+Saturday,07,день,False,первый класс,175,them,6,Jackson Ltd,whom,27,Солнечно,35,False,False,True,179,135,98,180,1,3
+Saturday,08,день,False,бизнес,55,front,4,Mcknight-Tanner,final,-11,Дождь,1,False,True,True,77,86,262,322,4,1
+Tuesday,10,утро,False,бизнес,25,voice,4,Lewis-Mann,again,31,Облачно,20,True,False,True,35,29,37,131,4,3
+Tuesday,09,утро,False,эконом,157,well,23,Gonzalez-Perkins,remember,21,Солнечно,37,False,False,True,102,92,129,318,5,2
+Saturday,03,утро,False,эконом,18,pretty,14,Carr Group,add,30,Снег,31,True,True,True,95,37,166,570,3,5
+Saturday,07,день,True,эконом,26,their,16,Jackson LLC,star,17,Снег,47,True,True,False,35,69,3,1000,2,4
+Wednesday,11,вечер,True,эконом,90,dream,11,Burke-Stevens,crime,39,Солнечно,3,True,True,False,161,133,239,691,5,1
+Monday,01,вечер,False,первый класс,85,former,22,"Woods, Levy and Martinez",star,-9,Дождь,6,True,True,False,22,148,25,413,4,4
+Thursday,03,утро,True,первый класс,131,word,13,"Allen, Webster and Olsen",federal,26,Снег,47,True,False,False,84,173,105,791,2,5
+Wednesday,02,утро,True,эконом,61,discover,23,"Franklin, Lane and Kelly",she,-18,Солнечно,1,True,True,True,141,51,228,359,4,3
+Sunday,06,вечер,True,бизнес,235,it,8,Gonzalez-Mata,time,-10,Снег,21,True,True,True,100,25,121,894,1,5
+Friday,05,утро,True,бизнес,245,scientist,6,"Mcgee, Reynolds and Frazier",decision,34,Облачно,29,False,True,True,40,162,237,493,2,5
+Sunday,02,вечер,True,бизнес,282,least,11,Koch Ltd,area,9,Облачно,31,True,True,False,9,101,263,946,5,2
+Thursday,10,день,False,бизнес,220,million,1,Turner-Lee,some,9,Солнечно,47,True,False,True,29,31,119,145,1,3
+Monday,07,ночь,False,первый класс,213,nor,21,"Peters, Ballard and Alexander",send,-15,Солнечно,41,False,False,False,85,122,286,117,1,5
+Wednesday,03,вечер,True,первый класс,205,determine,23,Aguilar Ltd,garden,26,Дождь,24,True,True,True,96,45,116,434,2,5
+Tuesday,04,вечер,True,первый класс,85,hair,22,Harrison-Richards,Democrat,-9,Дождь,18,True,True,True,36,180,23,723,4,1
+Monday,05,ночь,False,бизнес,217,would,22,Alvarez-Bauer,forget,-14,Снег,45,True,True,False,181,41,162,174,4,4
+Wednesday,08,день,True,эконом,25,mission,22,Francis Group,relationship,15,Облачно,29,True,True,False,152,91,103,430,3,5
+Sunday,06,ночь,True,первый класс,50,student,9,"Patel, Ford and Cervantes",create,-19,Дождь,4,False,False,False,181,110,53,810,2,3
+Monday,01,ночь,False,эконом,182,safe,1,Perez LLC,option,33,Снег,26,True,True,True,59,156,217,521,1,2
+Tuesday,03,утро,True,первый класс,282,rock,9,Scott and Sons,class,16,Дождь,12,False,True,False,192,71,18,897,1,5
+Saturday,12,вечер,True,первый класс,102,every,20,Gardner-Rocha,thus,35,Облачно,31,True,True,False,26,124,22,455,5,4
+Thursday,02,утро,False,первый класс,15,others,15,Cooper-Higgins,real,-19,Солнечно,7,True,False,False,65,24,272,214,5,4
+Tuesday,10,вечер,True,бизнес,276,kind,24,Hammond-Fleming,admit,-8,Облачно,37,True,True,True,66,143,256,798,5,1
+Friday,04,день,True,первый класс,243,receive,17,"Morgan, Anderson and Galloway",until,-14,Солнечно,39,True,False,True,97,67,161,132,4,1
+Wednesday,03,день,True,первый класс,198,drug,3,Brown PLC,sense,-9,Облачно,48,False,True,False,61,102,238,416,3,3
+Sunday,05,вечер,False,первый класс,156,shoulder,16,"Herrera, Anderson and Wolf",within,-16,Дождь,10,False,False,False,93,93,175,483,4,5
+Thursday,09,утро,True,бизнес,236,seem,19,"Young, Cole and Brown",act,30,Облачно,19,True,False,True,32,26,218,539,3,2
+Saturday,09,день,False,эконом,179,might,5,Grimes Inc,place,-16,Дождь,16,False,True,False,84,25,180,659,3,2
+Sunday,09,ночь,False,бизнес,86,cup,22,"Martinez, Wheeler and Turner",end,-12,Снег,47,False,True,True,36,124,139,347,1,3
+Sunday,03,утро,False,бизнес,121,big,3,Howard-Arias,enough,-1,Дождь,48,True,True,False,148,116,33,359,2,1
+Thursday,03,день,False,бизнес,287,return,9,"Price, Stewart and Griffith",future,-7,Дождь,6,False,True,False,135,118,10,1000,1,4
+Monday,04,утро,True,первый класс,27,under,12,Gilmore-Mendez,free,14,Дождь,48,False,True,True,80,117,275,555,1,2
+Wednesday,10,вечер,True,бизнес,86,decision,10,Barnes Inc,stay,-17,Облачно,27,False,True,False,28,52,130,596,4,1
+Wednesday,04,утро,True,эконом,134,simple,7,Johnson-Soto,plant,-13,Снег,16,False,True,False,10,69,59,426,5,4
+Sunday,01,вечер,True,бизнес,133,enough,14,Robinson LLC,sort,5,Солнечно,2,True,False,True,162,13,236,299,3,4
+Saturday,12,утро,False,бизнес,81,individual,14,King LLC,religious,12,Дождь,42,False,True,True,162,24,241,897,4,5
+Sunday,07,вечер,False,бизнес,108,similar,6,Richardson Group,hair,27,Солнечно,36,False,False,False,157,121,179,773,5,4
+Saturday,01,вечер,False,эконом,176,that,23,"Silva, Lee and Anderson",just,38,Снег,37,True,True,True,55,121,39,947,5,4
+Saturday,04,ночь,True,бизнес,261,main,1,Ashley-Lewis,true,39,Дождь,16,False,True,True,153,114,265,967,3,5
+Thursday,01,день,False,бизнес,70,audience,6,"Black, Henry and Tyler",school,2,Облачно,1,False,True,False,179,109,225,271,3,5
+Monday,01,ночь,False,первый класс,144,less,4,"Crawford, Garcia and Brown",future,-3,Солнечно,6,False,False,False,176,174,77,282,1,2
+Sunday,05,утро,True,эконом,296,billion,16,"Schmidt, Moore and Stanton",skill,32,Солнечно,26,True,True,False,88,64,157,347,3,3
+Thursday,09,ночь,False,первый класс,207,four,18,Hill and Sons,time,35,Снег,32,True,True,True,82,61,166,774,4,3
+Wednesday,09,ночь,False,бизнес,281,eye,12,Vasquez Group,produce,18,Дождь,21,False,False,False,159,8,177,584,1,2
+Sunday,05,вечер,False,эконом,26,late,22,Brown-Woods,if,34,Дождь,30,True,False,True,79,24,186,267,1,1
+Monday,03,ночь,False,первый класс,210,cause,7,Good-Martinez,determine,17,Дождь,28,True,False,True,7,178,267,407,3,4
+Tuesday,05,ночь,False,первый класс,215,outside,18,"Hernandez, Solis and Jones",commercial,15,Облачно,48,False,True,True,119,41,65,412,2,2
+Thursday,06,день,False,бизнес,193,example,9,York-Armstrong,organization,-9,Солнечно,33,True,True,True,70,53,119,950,3,2
+Sunday,06,утро,False,первый класс,88,whom,23,"Schneider, Nichols and Herring",forward,-18,Солнечно,20,True,True,True,113,33,100,553,3,2
+Tuesday,07,вечер,False,первый класс,229,certainly,19,"Murphy, Jackson and Blackburn",although,29,Солнечно,45,True,True,False,28,150,86,272,3,2
+Tuesday,07,вечер,True,бизнес,269,soldier,8,Lopez-Hayes,current,21,Облачно,25,True,True,True,146,151,0,599,4,1
+Monday,09,ночь,False,первый класс,39,radio,6,Weiss-Lamb,himself,26,Солнечно,49,True,True,True,84,176,56,532,4,4
+Sunday,02,утро,True,эконом,275,dream,10,Hall-Kelly,news,-13,Солнечно,42,True,True,False,167,180,165,655,4,2
+Thursday,03,утро,True,эконом,220,guess,12,"Cowan, Franklin and Dean",state,24,Облачно,2,True,True,False,99,163,51,342,1,2
+Thursday,12,ночь,False,эконом,123,soldier,19,"Arroyo, Thornton and Gross",sit,4,Облачно,3,False,True,False,189,62,254,969,3,1
+Wednesday,12,день,True,бизнес,72,practice,22,Knox-Garner,message,-10,Солнечно,41,True,True,False,12,4,272,954,2,2
+Tuesday,09,утро,True,первый класс,264,have,6,Watson PLC,benefit,15,Дождь,5,False,False,True,93,99,160,549,5,4
+Thursday,08,день,False,бизнес,8,animal,14,"Lawrence, Clark and Mitchell",purpose,31,Снег,44,False,True,True,183,44,279,266,1,3
+Monday,07,день,True,первый класс,262,really,13,"Wheeler, Marks and Taylor",so,3,Облачно,45,False,False,False,24,102,67,398,5,3
+Monday,01,ночь,False,бизнес,120,dog,14,Burnett-Miles,summer,-1,Дождь,44,False,True,False,109,197,161,461,4,5
+Friday,10,день,True,бизнес,64,successful,2,"Rogers, Ramirez and Lopez",street,-17,Снег,38,True,False,True,129,126,120,200,2,2
+Tuesday,03,ночь,True,первый класс,78,outside,15,Swanson and Sons,sense,21,Солнечно,14,True,True,False,114,110,134,619,5,3
+Monday,12,ночь,False,первый класс,92,far,18,Davis Ltd,key,24,Дождь,41,False,False,True,76,2,9,626,5,2
+Thursday,02,вечер,False,первый класс,149,reduce,8,"Johnson, Daniels and Rodriguez",south,1,Снег,25,False,True,False,145,92,72,211,5,4
+Wednesday,11,вечер,False,первый класс,184,position,6,"Davila, Arnold and Adams",company,8,Снег,7,True,True,False,120,45,47,377,3,2
+Wednesday,11,день,True,бизнес,261,unit,21,Collins-Morris,town,13,Облачно,8,False,True,False,172,136,167,451,1,2
+Wednesday,11,ночь,False,первый класс,276,century,21,Sexton Group,party,-5,Снег,26,False,True,True,155,97,75,232,1,5
+Sunday,03,утро,True,бизнес,297,mouth,4,Schmidt-Porter,specific,24,Облачно,10,True,True,False,36,49,43,955,2,5
+Wednesday,09,ночь,True,бизнес,257,happen,13,Sanchez PLC,arm,23,Дождь,31,False,False,True,120,19,106,369,1,1
+Thursday,06,день,True,эконом,260,service,1,Steele-Cruz,assume,10,Снег,48,False,True,False,33,53,87,462,4,1
+Wednesday,01,вечер,False,бизнес,277,risk,23,Freeman-Cruz,picture,38,Облачно,27,False,False,True,154,92,291,548,3,2
+Thursday,12,день,False,бизнес,216,American,4,Miller Ltd,deal,34,Снег,13,False,True,True,27,190,244,599,3,1
+Thursday,11,вечер,True,бизнес,96,drop,8,"Acosta, Hayes and Todd",great,6,Дождь,45,False,True,True,54,189,160,674,4,4
+Sunday,05,день,False,эконом,64,loss,6,"Carr, Hale and Flores",theory,-9,Солнечно,45,True,False,True,186,10,200,535,3,5
+Friday,04,день,False,эконом,72,much,20,"King, Hughes and Thomas",say,-1,Облачно,40,True,True,False,158,114,200,744,4,1
+Monday,08,вечер,True,эконом,151,candidate,19,"Barrett, Evans and Wells",all,16,Дождь,11,True,True,True,64,48,232,639,3,4
+Saturday,06,вечер,True,первый класс,261,example,17,Wright-Porter,role,14,Дождь,42,False,False,True,139,27,190,705,2,2
+Friday,11,утро,True,бизнес,20,body,9,Brown-Washington,cover,12,Дождь,10,True,True,False,92,137,81,111,5,5
+Tuesday,10,ночь,True,эконом,51,might,2,"Chavez, Thompson and Jones",late,12,Облачно,7,True,True,True,142,184,3,248,3,3
+Thursday,11,ночь,False,бизнес,62,bar,18,Sullivan-Greer,run,-4,Солнечно,18,False,True,False,146,161,39,901,4,5
+Thursday,08,вечер,True,первый класс,299,church,24,Savage-Dixon,development,31,Дождь,9,True,True,True,84,35,217,312,3,3
+Friday,10,вечер,False,бизнес,290,process,20,Raymond-Tyler,entire,15,Облачно,4,False,False,True,122,188,192,585,4,4
+Friday,02,утро,False,бизнес,231,enjoy,14,Brown Inc,section,-3,Солнечно,34,False,False,False,118,199,195,778,3,2
+Monday,08,ночь,True,первый класс,16,push,24,Andrade-Drake,account,-13,Солнечно,21,True,True,True,185,120,109,106,2,5
+Sunday,11,вечер,False,бизнес,200,bad,12,Le-Mcdonald,necessary,6,Облачно,26,False,False,False,158,111,98,466,4,2
+Monday,05,вечер,False,первый класс,170,break,11,Wilkins-Padilla,less,0,Дождь,47,True,True,True,178,60,222,947,4,3
+Friday,02,вечер,True,первый класс,19,field,5,"Turner, Pennington and Anderson",key,39,Дождь,1,True,False,False,188,13,43,663,3,1
+Wednesday,10,вечер,True,эконом,32,serve,5,"Thomas, Donaldson and Reeves",line,-18,Дождь,12,False,False,True,163,134,218,556,1,2
+Monday,06,ночь,True,бизнес,244,might,17,Ramirez Group,up,1,Дождь,47,False,True,True,55,85,138,145,3,1
+Thursday,07,вечер,False,эконом,115,buy,3,"Simmons, Ortega and Gutierrez",difference,-7,Дождь,47,True,True,True,63,32,44,796,4,3
+Thursday,06,день,True,бизнес,138,friend,3,Hernandez Inc,usually,20,Снег,36,False,False,True,8,101,67,563,1,1
+Saturday,03,утро,True,бизнес,245,size,14,Boyle Inc,most,19,Облачно,10,True,False,False,182,196,128,415,5,2
+Saturday,04,утро,False,первый класс,10,simply,12,"Sullivan, Hendricks and Bishop",late,32,Дождь,49,True,True,False,66,26,3,258,2,4
+Friday,02,день,True,бизнес,49,sea,21,Bean-Thomas,cold,11,Дождь,44,True,False,True,66,86,123,918,3,5
+Sunday,12,ночь,False,первый класс,105,argue,1,"Scott, Miller and Romero",time,6,Облачно,10,True,True,False,187,89,123,970,5,2
+Sunday,07,день,True,бизнес,0,office,16,"Mccarthy, Wang and Jackson",moment,6,Дождь,23,True,False,False,191,198,84,804,1,4
+Saturday,01,утро,True,бизнес,125,involve,23,Ramirez-Clark,other,9,Солнечно,17,True,False,False,96,18,159,295,3,2
+Tuesday,09,день,False,первый класс,153,recently,15,Blackburn-Johnson,available,-11,Снег,44,True,True,True,52,200,291,446,4,1
+Saturday,11,утро,False,эконом,63,man,14,"Chambers, Pena and Camacho",protect,-14,Солнечно,25,False,False,False,25,159,154,893,1,3
+Thursday,02,вечер,False,первый класс,221,why,11,"Adkins, Young and Keller",again,3,Дождь,33,False,False,False,101,35,207,386,3,5
+Saturday,12,день,False,первый класс,90,difficult,13,Martinez Inc,economy,-18,Снег,29,True,True,False,59,88,118,947,4,4
+Tuesday,06,вечер,False,первый класс,217,hour,21,Conrad-Kerr,college,33,Дождь,8,False,False,True,104,156,53,718,5,5
+Thursday,01,день,True,бизнес,300,mention,16,Gibson Ltd,station,21,Солнечно,8,False,False,False,131,113,89,958,1,3
+Wednesday,07,утро,True,первый класс,132,beyond,4,Osborne Group,national,19,Облачно,35,True,True,True,53,96,199,806,1,4
+Tuesday,09,день,False,первый класс,264,second,17,Waters-Henson,relationship,12,Солнечно,38,False,False,False,178,45,175,818,4,5
+Wednesday,03,утро,True,бизнес,107,our,8,Young-Johnson,seven,-17,Дождь,20,False,False,True,131,104,79,386,5,5
+Friday,01,день,True,бизнес,266,rock,13,"Carpenter, Davis and Smith",red,34,Снег,11,True,True,False,70,58,292,921,5,2
+Saturday,09,день,False,бизнес,196,TV,17,"Hernandez, Hill and Ramirez",establish,-9,Дождь,43,True,False,False,139,103,78,928,4,2
+Thursday,11,ночь,False,эконом,170,success,22,Gomez-Martin,official,12,Облачно,22,False,True,True,97,84,125,734,2,3
+Friday,07,вечер,False,эконом,111,attention,3,Sawyer Group,spend,-5,Дождь,26,True,False,False,151,8,40,988,3,3
+Saturday,06,утро,False,первый класс,78,if,24,"Johnson, Vasquez and Hudson",technology,-7,Облачно,39,False,False,False,70,95,73,350,1,1
+Friday,08,ночь,False,эконом,60,before,5,Kirby Group,price,25,Снег,17,False,True,False,162,51,137,387,4,5
+Sunday,01,утро,True,первый класс,298,low,24,"Hall, Green and Diaz",Republican,29,Снег,6,False,True,False,132,163,68,370,3,1
+Saturday,10,день,True,эконом,291,might,2,"Pugh, Gonzalez and Knox",anything,-15,Облачно,48,True,False,True,132,52,60,612,2,3
+Wednesday,09,утро,True,первый класс,79,such,15,Murray Group,assume,0,Облачно,44,True,True,True,49,186,53,649,3,4
+Wednesday,01,день,False,эконом,239,avoid,9,"Gray, James and Mullins",fish,-7,Солнечно,39,True,False,True,76,144,295,761,1,1
+Friday,05,вечер,False,бизнес,168,own,16,"Moyer, Golden and Castaneda",born,26,Снег,40,True,True,True,156,45,269,436,3,2
+Thursday,03,утро,False,первый класс,44,station,24,Jackson Inc,behind,17,Снег,13,False,True,True,30,107,99,638,3,3
+Sunday,02,утро,True,эконом,295,either,13,Marquez-Figueroa,recently,-7,Облачно,44,False,True,True,66,181,7,925,1,2
+Thursday,10,день,True,бизнес,35,attention,2,Williams Group,resource,7,Солнечно,36,True,True,True,57,182,36,531,1,3
+Friday,07,утро,True,эконом,218,room,21,"Donaldson, Coleman and Myers",beautiful,33,Облачно,35,False,True,True,121,135,142,939,4,1
+Tuesday,04,вечер,False,бизнес,169,charge,14,"Young, Turner and Sanders",audience,27,Облачно,41,False,True,True,141,99,253,541,4,3
+Saturday,03,вечер,False,первый класс,169,plan,14,"Ruiz, Wilson and Hill",page,39,Снег,25,True,True,True,62,118,258,585,1,1
+Sunday,05,день,False,первый класс,89,become,9,Smith Inc,these,38,Облачно,16,False,True,False,109,13,138,545,3,2
+Monday,10,утро,True,первый класс,263,today,16,Hensley-Zavala,study,35,Облачно,8,True,True,False,0,88,250,318,4,3
+Monday,09,день,True,бизнес,292,study,13,Jenkins-Avila,answer,5,Облачно,13,True,False,True,105,172,118,149,1,3
+Monday,11,ночь,False,эконом,111,office,1,Holt-Gallagher,painting,-19,Снег,11,True,False,True,24,20,175,761,3,2
+Saturday,10,день,False,первый класс,164,will,20,"Gutierrez, Johnson and Frank",free,12,Дождь,1,True,True,True,146,76,226,331,2,5
+Thursday,11,ночь,True,эконом,268,receive,7,Chandler-Andrade,attack,23,Снег,27,True,True,True,191,89,9,508,4,4
+Friday,10,ночь,True,первый класс,145,change,23,"Price, Hill and Thompson",old,20,Солнечно,47,True,False,False,87,63,17,872,5,4
+Wednesday,12,день,False,первый класс,286,put,4,Cohen Ltd,either,1,Снег,6,False,False,True,142,159,235,624,5,3
+Sunday,06,вечер,False,бизнес,234,stuff,15,"Mcgrath, Williams and Lane",everything,12,Солнечно,21,False,True,True,57,182,3,288,4,1
+Tuesday,08,утро,True,эконом,223,last,16,Herring-Payne,per,17,Солнечно,47,False,False,True,193,119,6,651,3,1
+Monday,06,вечер,True,первый класс,296,appear,2,Holt-Ellis,everybody,30,Облачно,23,True,False,False,24,162,258,302,2,4
+Saturday,08,утро,False,первый класс,285,understand,11,Newman PLC,read,-5,Солнечно,46,False,False,False,34,103,49,669,5,4
+Friday,01,утро,True,бизнес,118,many,18,"Sampson, Walters and Harrison",onto,20,Дождь,34,True,False,False,163,169,133,988,3,1
+Monday,11,вечер,False,бизнес,32,dream,6,Dunn Group,arm,2,Дождь,38,False,True,False,15,62,5,438,3,5
+Tuesday,01,день,True,бизнес,14,shoulder,14,"Shelton, Pierce and Waters",example,37,Дождь,38,True,False,False,198,139,186,993,5,2
+Wednesday,10,утро,True,первый класс,141,particular,13,Martinez-Moss,street,39,Снег,0,False,True,False,22,131,92,215,2,2
+Wednesday,03,ночь,False,первый класс,232,later,5,Brown-Harrington,issue,-18,Снег,36,False,True,True,159,166,273,921,1,4
+Monday,10,день,False,эконом,33,citizen,12,Wong and Sons,management,-10,Снег,21,False,False,True,154,194,53,101,4,4
+Wednesday,04,утро,True,бизнес,261,then,5,Phillips-Jenkins,baby,-6,Дождь,27,False,False,False,92,137,147,740,4,3
+Monday,11,день,False,эконом,34,left,11,Patterson and Sons,major,-14,Облачно,45,True,True,True,186,30,20,481,1,3
+Saturday,04,вечер,True,бизнес,23,middle,22,"Walsh, Hobbs and Shaw",step,2,Солнечно,43,True,False,False,27,11,26,210,2,2
+Friday,06,ночь,True,эконом,138,four,5,Williams-Davis,college,-4,Солнечно,6,True,False,False,66,176,67,317,3,2
+Saturday,02,ночь,False,бизнес,82,imagine,20,Bolton PLC,develop,21,Облачно,24,False,True,True,64,125,181,369,3,5
+Saturday,08,утро,True,первый класс,113,second,15,Sloan-Price,president,16,Дождь,26,True,False,False,169,100,9,675,2,4
+Friday,03,ночь,True,первый класс,31,light,3,Reed Ltd,then,14,Дождь,38,False,True,False,197,64,239,489,2,4
+Wednesday,10,вечер,False,бизнес,254,them,10,Campos PLC,great,11,Облачно,10,True,True,False,121,183,147,185,4,1
+Wednesday,08,вечер,True,бизнес,37,whole,20,Horn Ltd,such,20,Солнечно,8,False,True,True,47,64,36,840,4,3
+Tuesday,04,ночь,False,бизнес,177,per,12,Hall-Davis,appear,7,Дождь,28,True,True,False,194,176,38,702,5,1
+Thursday,12,вечер,False,бизнес,267,serve,8,"Mueller, Curry and Horn",girl,-11,Дождь,10,False,False,True,190,178,65,387,2,4
+Tuesday,09,ночь,True,первый класс,85,area,18,Robinson-Parsons,general,-19,Снег,17,True,False,True,154,17,294,210,2,1
+Saturday,04,день,False,бизнес,115,significant,12,Fowler Inc,dog,-10,Солнечно,6,False,True,True,16,45,16,353,5,4
+Tuesday,11,ночь,True,эконом,167,beat,12,Knight-Martin,executive,17,Солнечно,48,False,True,False,110,12,264,974,1,2
+Monday,05,утро,False,эконом,265,hundred,20,"Moore, Shah and Eaton",research,18,Дождь,40,True,False,True,76,97,128,134,2,3
+Tuesday,04,утро,False,бизнес,267,close,9,Perez-Stafford,word,17,Дождь,20,True,False,False,64,95,45,150,4,1
+Wednesday,10,утро,True,бизнес,43,act,16,Montgomery-Garza,site,-2,Облачно,36,True,True,True,65,191,117,284,2,2
+Tuesday,09,день,True,бизнес,208,stand,24,Chen-Harrison,industry,14,Солнечно,36,False,False,False,191,113,138,254,3,1
+Sunday,04,утро,True,первый класс,152,window,5,Brown-Mayo,north,30,Солнечно,29,True,True,True,165,92,64,149,5,3
+Tuesday,09,день,True,первый класс,147,thank,15,Delacruz-Thompson,by,-3,Солнечно,42,False,False,True,135,128,195,419,3,4
+Monday,08,день,False,первый класс,228,management,19,Harris Group,during,-16,Солнечно,17,False,True,False,53,164,95,984,2,1
+Wednesday,02,утро,False,эконом,274,also,9,"Hill, Warren and Pena",impact,6,Солнечно,44,False,True,True,176,59,69,233,2,4
+Monday,08,день,False,эконом,111,television,2,"Hall, Ward and Jones",see,29,Снег,31,False,False,False,158,80,5,734,5,3
+Friday,06,утро,False,бизнес,201,quality,11,Gaines-Bell,station,14,Дождь,5,True,True,True,53,0,115,781,5,4
+Friday,07,день,True,эконом,63,rise,9,"Smith, Gomez and Lewis",visit,-11,Снег,35,True,False,True,94,69,184,343,5,2
+Tuesday,12,день,False,бизнес,29,quality,12,Lester and Sons,word,4,Дождь,25,False,True,False,73,23,78,378,3,3
+Tuesday,11,вечер,False,эконом,181,improve,12,Ramirez-Manning,agree,1,Снег,24,False,False,False,130,8,0,980,5,1
+Monday,09,утро,False,бизнес,67,law,20,Williams PLC,girl,39,Снег,28,True,True,True,200,143,210,144,5,5
+Thursday,01,вечер,False,бизнес,284,moment,1,Singleton-Cisneros,position,-4,Облачно,15,True,False,False,179,115,83,199,1,1
+Friday,12,вечер,False,бизнес,159,campaign,2,"Collins, Wade and Rhodes",final,-8,Дождь,39,True,False,True,168,195,272,988,4,2
+Thursday,10,вечер,True,эконом,42,anything,6,Reed-Jones,soon,-11,Облачно,24,False,False,True,96,26,196,722,5,2
+Saturday,04,ночь,True,первый класс,138,your,20,Little-Franklin,color,17,Солнечно,20,False,False,False,54,33,33,667,1,3
+Saturday,01,день,False,первый класс,227,weight,23,Long PLC,everyone,-8,Снег,3,False,True,False,145,7,26,941,3,3
+Saturday,03,ночь,True,первый класс,108,according,10,Henry-Reed,action,40,Солнечно,44,True,True,True,170,63,155,645,1,4
+Sunday,08,вечер,False,эконом,46,plant,15,Kim-White,enter,3,Дождь,10,False,False,True,130,91,211,152,3,1
+Monday,03,день,True,бизнес,59,between,13,York-Wiggins,campaign,-13,Дождь,36,False,True,False,118,20,186,669,1,3
+Sunday,07,утро,False,первый класс,178,financial,20,"Davis, Jones and Nguyen",chance,10,Снег,15,False,False,True,45,63,90,422,5,2
+Saturday,02,утро,True,бизнес,286,action,13,Ray-Young,phone,-5,Снег,17,False,True,False,141,164,300,595,2,2
+Thursday,10,день,True,бизнес,22,relate,6,"Berry, Mitchell and Floyd",tough,33,Солнечно,3,True,True,False,88,101,267,265,1,3
+Sunday,05,утро,False,первый класс,246,south,5,"Kennedy, Williams and Holt",phone,20,Облачно,34,False,True,True,54,127,249,403,3,3
+Wednesday,04,утро,True,бизнес,135,down,16,Lopez Ltd,enter,29,Дождь,43,False,False,False,56,190,231,692,2,4
+Saturday,12,день,True,эконом,198,art,3,Gomez-Jackson,call,-2,Солнечно,49,True,True,True,0,187,144,686,1,3
+Tuesday,09,день,False,бизнес,119,remain,7,Wright-Gomez,leg,-2,Облачно,4,False,True,True,200,15,190,251,4,4
+Tuesday,12,утро,True,эконом,127,food,9,Smith Group,off,39,Снег,19,False,True,True,60,171,29,380,5,4
+Wednesday,11,вечер,False,первый класс,15,station,13,Gibson Ltd,item,16,Облачно,36,True,True,False,130,124,148,177,5,1
+Wednesday,05,день,True,первый класс,221,business,23,Weaver-Christensen,walk,-18,Дождь,35,True,True,False,11,26,203,407,2,1
+Wednesday,04,вечер,True,бизнес,48,voice,21,"Schneider, Roberts and Chase",would,7,Снег,31,False,False,False,7,35,16,793,2,3
+Monday,05,вечер,False,первый класс,126,necessary,24,"Padilla, Mitchell and Flynn",near,26,Снег,31,True,False,True,172,73,114,438,2,5
+Wednesday,08,день,True,эконом,251,upon,7,Gray Inc,draw,11,Солнечно,24,True,True,False,145,13,228,409,1,5
+Monday,05,вечер,True,бизнес,153,century,22,Avery PLC,effect,30,Облачно,13,False,False,False,50,73,211,933,2,5
+Monday,07,ночь,False,бизнес,23,security,23,"Goodman, Esparza and Barrett",military,36,Облачно,50,True,False,True,159,145,179,619,2,3
+Sunday,08,утро,False,эконом,204,great,9,"Perry, Gibbs and Burnett",may,-5,Снег,48,True,True,False,188,49,235,768,4,3
+Sunday,11,день,False,бизнес,86,reflect,2,Cox Inc,probably,25,Дождь,34,False,True,True,123,134,219,595,4,3
+Tuesday,06,утро,True,бизнес,290,scene,21,"Huang, Miller and Taylor",federal,12,Облачно,12,True,False,False,166,152,4,635,2,1
+Thursday,07,утро,True,эконом,85,charge,9,Case PLC,today,39,Солнечно,21,True,True,False,149,98,55,849,3,4
+Saturday,02,вечер,False,бизнес,246,general,7,Allison-Cole,case,7,Снег,34,True,False,True,136,74,108,656,4,1
+Monday,04,день,True,эконом,159,stand,18,"Watts, Carson and Green",various,29,Дождь,32,False,False,True,166,188,221,199,3,5
+Friday,06,ночь,True,эконом,282,expert,9,Guzman-Flores,we,17,Снег,35,True,True,False,198,80,300,613,2,2
+Saturday,12,вечер,False,первый класс,281,exist,14,Bryant-Shea,top,6,Дождь,38,True,True,True,53,46,268,369,3,2
+Tuesday,12,ночь,True,бизнес,258,easy,22,"Fuentes, Martinez and Hall",city,35,Солнечно,14,True,True,True,45,2,128,280,1,2
+Thursday,12,утро,False,бизнес,26,note,13,Perez PLC,sea,18,Солнечно,15,True,False,True,171,139,81,151,3,3
+Saturday,09,ночь,True,первый класс,271,just,11,Peterson-Davis,some,30,Солнечно,30,True,False,False,191,162,193,754,3,1
+Friday,11,утро,True,первый класс,26,say,17,Peterson Group,firm,29,Облачно,7,False,False,False,178,119,35,416,1,4
+Thursday,01,вечер,False,эконом,270,attorney,19,"Myers, Maxwell and Nichols",never,5,Облачно,47,False,False,False,119,36,213,345,1,5
+Saturday,10,день,False,бизнес,9,try,12,"Cook, Campos and Cooper",black,0,Солнечно,4,True,False,False,164,45,104,725,4,2
+Monday,04,день,True,бизнес,94,money,21,"Gordon, Ramirez and Osborne",break,39,Дождь,4,False,False,True,62,122,110,870,4,3
+Monday,01,день,False,бизнес,254,responsibility,14,"Jordan, Garcia and Price",wait,-16,Облачно,17,False,True,True,166,68,285,923,5,5
+Friday,06,вечер,False,эконом,211,moment,8,Carlson and Sons,place,33,Дождь,19,True,True,True,85,105,250,794,1,3
+Sunday,09,ночь,False,бизнес,110,myself,21,"Dillon, Brady and Mendoza",activity,2,Солнечно,25,False,True,False,108,90,140,192,2,2
+Monday,07,утро,False,бизнес,122,body,14,Arnold and Sons,financial,-7,Снег,34,False,False,False,29,6,241,378,3,4
+Saturday,06,утро,False,бизнес,164,certain,8,Bell-Dunn,finish,-2,Солнечно,47,False,True,False,160,8,201,800,4,1
+Wednesday,06,вечер,True,эконом,248,ask,19,Anderson-Mckenzie,certain,-14,Снег,38,True,True,True,49,143,99,825,1,5
+Friday,09,утро,True,первый класс,278,because,13,Campos-Sanchez,with,40,Дождь,9,True,False,False,149,108,32,572,2,2
+Thursday,04,вечер,True,эконом,116,Republican,15,Rodriguez and Sons,list,6,Дождь,11,False,True,False,3,31,270,685,1,3
+Friday,10,утро,True,бизнес,258,your,21,Weber Inc,oil,-4,Снег,25,True,False,False,122,45,26,862,5,1
+Saturday,06,ночь,False,эконом,183,raise,8,Hunter-Johnson,various,-4,Солнечно,32,True,False,True,11,40,147,286,4,5
+Tuesday,12,ночь,True,бизнес,26,responsibility,17,"Mitchell, Wells and Green",room,37,Дождь,13,True,True,True,97,185,196,537,1,2
+Thursday,12,день,False,эконом,210,defense,7,Preston-Miller,serve,-13,Снег,43,True,False,False,85,12,102,117,3,1
+Friday,09,вечер,False,бизнес,126,newspaper,16,"Chavez, Silva and Bradley",size,16,Облачно,16,False,True,True,42,63,87,253,3,4
+Thursday,03,день,False,первый класс,131,similar,4,"Todd, Boyer and Kirby",feeling,37,Снег,22,False,False,False,150,164,84,428,2,3
+Wednesday,03,вечер,False,бизнес,190,land,7,"Wright, Marsh and Gonzalez",range,2,Солнечно,49,True,True,False,118,182,59,647,5,3
+Thursday,04,утро,True,первый класс,100,role,9,"Munoz, Watson and Johnson",research,20,Снег,42,False,False,True,134,75,151,587,1,2
+Wednesday,04,утро,True,первый класс,54,positive,24,Armstrong PLC,study,-4,Снег,20,False,True,False,183,8,214,256,3,3
+Wednesday,08,день,False,эконом,32,both,20,Thomas-Johnson,leave,-15,Солнечно,17,True,False,True,183,52,161,432,3,5
+Friday,04,день,True,эконом,252,range,11,Gregory-Brown,person,-18,Солнечно,31,False,True,False,154,11,162,856,5,1
+Friday,10,ночь,True,первый класс,148,society,16,Perez-Fowler,network,23,Снег,46,False,True,True,188,102,59,315,4,4
+Tuesday,02,вечер,True,первый класс,289,protect,7,Rose-Ortiz,possible,-2,Снег,33,True,True,True,75,174,108,837,5,2
+Saturday,11,утро,True,первый класс,244,law,8,Hardy Inc,six,10,Дождь,15,True,False,True,126,187,249,148,2,5
+Monday,11,ночь,True,бизнес,263,how,18,Johnson Group,position,7,Снег,42,False,False,True,94,138,143,532,1,1
+Friday,03,ночь,True,первый класс,208,president,10,"Owens, Werner and Scott",Republican,3,Снег,4,False,True,False,151,138,180,970,4,5
+Saturday,04,день,True,бизнес,171,month,12,Cohen-Fuller,today,34,Снег,7,False,True,False,167,81,296,934,2,3
+Tuesday,06,ночь,True,эконом,96,door,15,"Hicks, Fisher and Perez",seven,15,Снег,21,False,False,True,80,129,31,550,2,4
+Thursday,08,вечер,False,первый класс,28,plant,2,Hunt Ltd,scientist,40,Солнечно,9,False,True,False,37,193,146,147,3,2
+Monday,10,день,False,первый класс,269,prevent,13,Wilcox and Sons,page,-1,Снег,11,False,False,True,163,167,189,511,1,5
+Tuesday,05,день,True,бизнес,143,most,24,Baker-Andrews,choose,40,Дождь,20,True,False,True,1,66,181,693,3,5
+Saturday,02,ночь,True,бизнес,85,baby,23,Hernandez Ltd,authority,18,Дождь,9,False,False,True,137,164,211,106,1,5
+Saturday,01,день,False,первый класс,196,need,1,"Walker, Reynolds and Russell",time,37,Снег,9,False,True,False,116,138,11,497,1,3
+Friday,04,день,True,бизнес,75,animal,15,Harper Group,next,-4,Снег,29,False,True,False,144,171,235,360,2,3
+Friday,07,день,True,бизнес,242,forget,22,Andrews PLC,long,9,Облачно,17,False,False,False,158,70,12,147,4,5
+Tuesday,06,вечер,False,эконом,29,its,2,"Bradford, Hart and Hurst",team,14,Солнечно,6,True,True,True,144,29,37,287,2,5
+Saturday,05,день,False,эконом,75,face,11,Simmons-Thornton,east,-3,Солнечно,3,True,True,True,76,134,263,362,4,2
+Monday,04,утро,False,эконом,66,research,12,Johnston PLC,form,-13,Дождь,49,False,False,False,88,3,87,173,1,1
+Friday,12,вечер,True,первый класс,183,low,7,Marshall-Wiley,behavior,13,Солнечно,9,True,False,True,1,167,210,281,1,3
+Thursday,11,день,False,первый класс,236,serve,21,Jackson-Simmons,fine,-2,Дождь,43,False,True,False,114,15,143,263,5,2
+Saturday,09,ночь,False,эконом,129,night,4,Franklin-Sullivan,way,-18,Дождь,50,True,False,True,149,56,145,243,2,5
+Monday,10,день,True,бизнес,208,else,5,Copeland PLC,agency,22,Солнечно,49,True,False,True,152,163,214,254,4,3
+Tuesday,11,день,False,эконом,54,continue,6,Fuentes-Keller,clearly,28,Солнечно,5,True,False,False,166,15,36,431,2,1
+Monday,04,вечер,True,бизнес,4,deep,7,Harrington Ltd,total,35,Снег,43,False,False,False,92,19,270,885,5,3
+Wednesday,05,утро,False,бизнес,73,need,12,Miller-Smith,industry,12,Снег,39,False,False,False,74,56,169,318,1,3
+Saturday,01,вечер,False,первый класс,244,cell,16,"Thomas, Jones and Schroeder",happen,17,Снег,8,True,False,False,21,59,45,139,2,2
+Tuesday,11,вечер,False,первый класс,295,site,16,Warner-Riley,task,31,Облачно,13,True,True,True,37,90,104,127,3,1
+Wednesday,08,утро,False,бизнес,296,down,16,"Nichols, Mckinney and Ruiz",just,-18,Снег,23,False,True,True,46,73,214,971,5,5
+Tuesday,05,вечер,False,первый класс,36,ask,15,Martinez Inc,matter,0,Дождь,11,True,True,True,47,81,278,393,1,1
+Sunday,06,ночь,False,эконом,21,financial,5,Johnson and Sons,cultural,14,Снег,48,False,True,False,86,134,139,815,2,2
+Wednesday,02,ночь,True,бизнес,211,history,4,Juarez-Nunez,use,38,Снег,36,False,True,False,105,169,280,173,3,1
+Monday,08,ночь,False,первый класс,59,theory,4,"Evans, Schwartz and Gordon",while,-18,Солнечно,35,False,True,False,47,194,269,146,5,4
+Monday,03,вечер,False,первый класс,131,what,12,Perry-Donaldson,charge,32,Облачно,38,False,True,False,67,160,14,314,5,5
+Thursday,11,день,False,первый класс,37,measure,4,Carlson Group,before,2,Солнечно,11,True,True,False,133,101,185,921,4,1
+Wednesday,03,вечер,False,эконом,120,such,15,Walker and Sons,whose,-3,Солнечно,40,True,True,False,34,117,210,165,4,2
+Tuesday,05,ночь,False,бизнес,250,author,14,"Perry, Gilbert and Hall",somebody,-14,Снег,20,True,False,False,22,190,138,842,2,1
+Thursday,07,утро,True,бизнес,246,big,6,Mercado and Sons,carry,12,Дождь,21,True,True,True,128,37,114,199,1,5
+Tuesday,01,утро,False,первый класс,19,spend,21,Andrews Group,man,27,Облачно,18,False,False,False,14,120,158,301,2,2
+Friday,10,ночь,False,первый класс,36,difference,2,"Miller, Mccullough and Powers",health,-2,Дождь,45,False,True,False,49,103,224,786,3,4
+Monday,03,день,False,бизнес,13,organization,8,"Castro, Berry and Smith",debate,-9,Дождь,46,True,False,False,137,49,14,657,2,4
+Friday,04,вечер,False,бизнес,188,strategy,16,Harmon Group,dream,-18,Солнечно,15,True,False,False,178,185,94,251,2,5
+Saturday,01,вечер,False,первый класс,109,weight,24,"Cunningham, Larsen and Brewer",worker,-3,Облачно,6,False,True,False,196,169,191,909,3,4
+Thursday,09,утро,True,первый класс,231,run,6,Scott-Brooks,evening,8,Дождь,50,True,True,False,185,59,245,734,3,3
+Thursday,06,вечер,True,первый класс,176,clear,12,Smith-Townsend,health,17,Солнечно,28,True,False,False,47,158,66,422,4,4
+Friday,05,день,True,бизнес,170,choose,22,Shaffer-Molina,possible,-20,Снег,21,True,False,True,121,174,127,280,3,3
+Monday,08,ночь,False,первый класс,67,five,8,"Bailey, Hodges and Harrell",present,-12,Снег,21,True,False,False,13,146,35,654,5,1
+Sunday,12,утро,False,первый класс,122,business,10,Perez LLC,phone,30,Солнечно,11,False,False,True,140,105,59,181,1,4
+Friday,02,утро,True,бизнес,289,ago,1,Brown Inc,computer,23,Дождь,26,False,False,True,125,164,35,569,4,3
+Friday,05,ночь,True,бизнес,173,watch,23,"Henry, Cook and Patterson",open,29,Дождь,2,True,False,True,51,167,116,577,2,4
+Tuesday,12,ночь,False,бизнес,226,business,17,"Perez, Morales and Jefferson",score,25,Солнечно,36,False,True,False,163,0,294,890,4,2
+Saturday,05,ночь,False,первый класс,243,age,24,"Whitaker, Brown and Thomas",forward,12,Снег,18,False,False,False,160,175,104,428,5,4
+Monday,02,ночь,False,бизнес,208,sure,20,"Summers, Huerta and Webb",woman,-2,Солнечно,6,True,True,False,142,79,295,534,5,5
+Wednesday,05,день,False,бизнес,155,stand,23,Burke-Johnson,yet,14,Облачно,20,True,True,True,110,173,167,414,2,5
+Thursday,06,утро,True,первый класс,204,research,12,"Smith, Stone and Martinez",amount,-14,Солнечно,1,True,True,False,106,79,89,511,5,5
+Wednesday,07,вечер,False,первый класс,296,themselves,2,"Murphy, Steele and Barrett",far,35,Облачно,33,True,False,True,39,88,140,604,3,2
+Thursday,06,день,True,бизнес,243,may,7,Williams Ltd,debate,39,Солнечно,48,True,True,False,49,165,212,838,1,3
+Monday,08,вечер,True,первый класс,151,stuff,22,Harper LLC,without,-14,Облачно,36,True,True,True,153,65,84,859,4,2
+Monday,04,ночь,False,первый класс,266,tax,1,Dorsey and Sons,interesting,-4,Облачно,11,False,True,False,39,183,3,566,1,2
+Friday,01,утро,False,бизнес,276,better,4,Haynes-Shaw,laugh,-14,Солнечно,22,False,False,False,66,182,201,433,5,4
+Tuesday,07,ночь,True,первый класс,238,boy,2,"Davis, Arnold and Lopez",explain,20,Снег,32,True,True,False,154,106,82,856,1,3
+Friday,04,вечер,True,эконом,73,speech,12,Lee-Moyer,market,-13,Солнечно,14,True,False,True,107,59,39,550,3,5
+Monday,09,ночь,False,бизнес,77,recent,16,Hall-Rose,military,-10,Облачно,6,True,True,True,113,130,176,201,3,3
+Sunday,04,вечер,False,первый класс,105,executive,6,Phillips-Yu,five,7,Дождь,3,False,True,False,141,79,252,571,2,2
+Wednesday,07,ночь,True,эконом,241,pressure,12,"Cruz, Valencia and Banks",entire,0,Дождь,35,False,True,True,184,72,167,534,3,5
+Friday,07,вечер,True,эконом,39,certain,12,Mendez Group,nor,-3,Снег,21,False,False,False,195,116,274,763,5,3
+Thursday,11,вечер,True,эконом,130,son,19,Villegas-Garcia,president,-16,Снег,30,False,False,True,88,64,260,756,4,4
+Saturday,11,ночь,True,первый класс,207,trip,15,Stewart Ltd,mean,-14,Снег,8,False,True,False,182,120,210,878,1,2
+Tuesday,06,ночь,True,эконом,270,argue,15,"Gray, Terry and Adams",point,2,Дождь,11,True,True,True,71,139,53,310,2,5
+Tuesday,04,утро,True,первый класс,101,lead,5,"Mcguire, Taylor and Parker",adult,-10,Дождь,15,False,False,False,51,18,114,766,2,4
+Friday,05,ночь,True,бизнес,174,stuff,1,"Whitehead, Weaver and Harvey",instead,-1,Солнечно,5,False,True,False,124,7,94,395,1,1
+Wednesday,09,вечер,False,первый класс,149,these,21,"Sexton, Johnson and Whitehead",bring,4,Снег,41,False,False,False,64,103,235,749,5,1
+Thursday,04,ночь,False,эконом,272,sell,22,Dalton PLC,memory,-2,Облачно,11,True,True,True,130,51,0,324,2,2
+Saturday,10,день,False,бизнес,97,security,22,"Rocha, Gonzalez and Bowers",PM,30,Облачно,2,False,True,False,165,109,194,282,3,1
+Friday,10,утро,False,эконом,227,send,7,Brooks-Davis,table,-10,Облачно,44,True,True,False,80,179,290,235,4,1
+Saturday,10,ночь,True,эконом,41,large,23,"Frank, Perry and Miller",address,-9,Облачно,39,False,False,True,79,51,16,739,2,4
+Wednesday,02,день,False,первый класс,14,none,7,Carter Group,else,-4,Солнечно,27,True,False,True,75,55,92,852,5,3
+Monday,09,ночь,True,бизнес,52,but,15,"Schroeder, Gill and Torres",wait,28,Снег,16,True,True,False,5,74,53,365,1,2
+Wednesday,03,ночь,True,первый класс,250,above,6,Moore Group,card,0,Солнечно,34,True,True,True,156,76,91,760,2,3
+Thursday,05,вечер,False,эконом,245,finish,12,Frazier Group,science,-18,Солнечно,22,True,False,False,177,91,60,651,4,2
+Monday,08,вечер,True,первый класс,114,answer,12,Martin-Valenzuela,level,10,Солнечно,17,True,False,False,80,169,167,523,2,5
+Thursday,09,день,True,эконом,209,yet,5,"Turner, Santiago and Lewis",majority,3,Солнечно,32,True,True,False,73,199,140,789,5,3
+Wednesday,03,ночь,True,бизнес,129,question,2,Kemp Ltd,tend,-10,Дождь,19,True,False,True,180,29,223,937,5,5
+Tuesday,07,утро,False,первый класс,65,yard,6,Townsend LLC,sound,-17,Дождь,47,True,False,False,17,195,251,860,1,2
+Thursday,06,утро,False,первый класс,206,pay,15,"Martinez, Wright and Russell",fact,-17,Снег,11,True,False,False,111,95,33,647,2,5
+Friday,10,день,False,первый класс,2,vote,15,"Ward, Reynolds and Jackson",both,2,Дождь,38,True,True,False,36,183,279,934,5,1
+Friday,09,вечер,False,бизнес,38,give,22,Green Ltd,member,9,Солнечно,32,False,True,False,98,148,161,602,4,5
+Wednesday,10,ночь,True,эконом,289,guess,8,"Estrada, Murphy and Lee",begin,36,Облачно,15,False,True,True,15,131,20,160,2,4
+Friday,03,утро,False,первый класс,292,century,20,Garcia-Smith,until,-14,Облачно,41,False,False,True,0,84,42,590,1,3
+Thursday,03,день,False,эконом,122,care,11,Davenport Inc,specific,-11,Дождь,26,True,True,True,172,33,212,227,3,5
+Friday,12,день,False,эконом,55,court,3,Patel-Smith,size,11,Солнечно,45,True,False,False,160,81,148,508,5,3
+Thursday,05,вечер,True,бизнес,44,they,11,"Mack, Hunter and Ray",degree,30,Облачно,30,False,True,False,68,194,65,151,5,5
+Tuesday,08,утро,True,первый класс,162,form,18,Weiss LLC,create,40,Дождь,31,False,False,True,176,66,24,824,1,3
+Saturday,12,утро,False,эконом,207,low,16,Barron-Stone,film,33,Облачно,28,True,False,True,162,179,297,144,1,4
+Wednesday,11,вечер,True,эконом,109,wind,3,Green-Ho,sound,-15,Снег,27,False,True,True,152,64,194,745,2,1
+Monday,03,вечер,False,первый класс,17,choose,9,Gomez-Rodriguez,behavior,-17,Дождь,30,False,True,True,27,0,79,502,2,4
+Thursday,06,день,False,бизнес,119,contain,8,Mueller-Watson,lead,-10,Снег,39,True,True,True,195,145,282,862,5,4
+Thursday,12,день,True,бизнес,128,degree,8,Williams-Ellison,college,17,Дождь,6,True,False,True,25,161,265,948,3,4
+Tuesday,11,утро,False,бизнес,294,structure,17,"Adams, Anderson and Garcia",quite,6,Облачно,27,True,False,False,68,127,173,743,5,4
+Sunday,01,утро,True,эконом,12,side,21,Lee-Mason,land,11,Солнечно,34,True,False,False,120,14,226,926,1,2
+Saturday,03,ночь,True,бизнес,114,nice,8,"Martin, Fields and Rodriguez",laugh,25,Солнечно,42,False,True,False,146,45,158,560,4,2
+Wednesday,05,день,True,первый класс,122,trouble,18,"Rogers, Baker and Davis",lot,8,Дождь,50,False,True,True,98,194,177,576,4,1
+Friday,12,день,True,бизнес,248,prepare,23,Miller-Williams,maybe,1,Дождь,45,True,False,True,188,199,300,168,2,1
+Wednesday,04,ночь,True,первый класс,198,hand,10,"Keller, Berger and Melendez",economic,37,Дождь,26,False,False,False,98,178,238,847,3,1
+Wednesday,03,вечер,True,эконом,250,career,5,"Guzman, Ortega and Waller",court,34,Дождь,29,False,False,False,131,84,141,509,4,3
+Saturday,04,день,False,эконом,142,resource,23,Lowe Ltd,character,23,Облачно,18,False,False,False,187,168,126,284,5,2
+Friday,01,вечер,True,бизнес,16,fund,9,Miller LLC,old,-9,Снег,48,True,False,True,131,90,238,438,4,1
+Saturday,07,утро,True,эконом,68,course,14,"Coleman, Weber and Le",site,26,Солнечно,21,True,False,True,185,108,132,102,4,1
+Sunday,02,день,False,бизнес,74,meeting,16,"Evans, Moore and Kelly",table,24,Облачно,41,False,True,True,49,124,63,474,2,3
+Friday,10,день,False,эконом,32,unit,12,Carter-Rivas,effect,19,Облачно,47,False,False,True,155,23,202,753,1,1
+Saturday,04,ночь,True,бизнес,133,lawyer,9,"Smith, Miranda and Burgess",give,36,Дождь,33,False,False,False,160,134,190,549,5,1
+Monday,12,ночь,True,бизнес,277,hour,22,Holt Inc,reach,-6,Снег,14,False,True,True,20,170,231,712,1,5
+Sunday,06,утро,False,бизнес,8,several,16,Munoz-Kerr,phone,30,Облачно,48,False,True,False,163,13,179,413,1,4
+Saturday,05,утро,True,эконом,85,better,12,Morgan-Foster,whether,22,Облачно,33,True,False,False,99,74,266,807,3,5
+Monday,10,ночь,False,бизнес,99,new,1,Montgomery Ltd,book,1,Снег,25,False,False,False,49,127,129,599,4,1
+Friday,03,утро,True,эконом,86,far,13,Clark Inc,image,-17,Дождь,38,False,True,False,97,185,174,864,2,3
+Thursday,11,вечер,True,эконом,61,turn,10,White PLC,best,19,Солнечно,34,True,False,True,123,127,298,710,5,1
+Tuesday,02,ночь,True,первый класс,218,education,3,"Barrera, Long and Hughes",would,21,Облачно,1,True,False,False,1,4,50,479,1,2
+Friday,05,ночь,False,эконом,10,represent,17,Little-White,especially,0,Снег,36,False,False,True,109,37,247,559,5,4
+Friday,09,день,True,эконом,75,follow,9,Bradford-Gonzales,them,12,Облачно,49,True,False,True,86,118,82,877,1,4
+Monday,01,утро,False,первый класс,82,simply,11,"Scott, Gonzales and Owens",cut,12,Солнечно,13,True,False,False,44,66,100,276,4,2
+Tuesday,08,ночь,True,бизнес,188,himself,15,Watkins-Nguyen,reason,6,Дождь,28,False,True,True,13,53,202,941,1,4
+Friday,09,утро,False,первый класс,15,southern,13,"Eaton, Ochoa and Morris",kind,-11,Дождь,5,False,True,False,80,161,119,809,2,4
+Saturday,05,утро,True,бизнес,179,hit,3,Evans LLC,through,-10,Снег,35,False,True,True,142,196,206,537,2,2
+Tuesday,04,утро,True,бизнес,188,sign,1,Griffin LLC,degree,32,Облачно,38,True,False,True,155,125,73,374,5,1
+Wednesday,10,день,False,эконом,82,white,19,"Jones, Nelson and Gonzalez",everything,11,Облачно,50,True,False,False,194,175,32,483,2,5
+Thursday,02,ночь,True,бизнес,149,agent,19,Howard Inc,significant,27,Облачно,23,True,False,False,152,118,73,925,4,1
+Friday,07,утро,True,первый класс,118,road,13,"Richardson, Sharp and Crawford",special,5,Солнечно,29,True,True,True,133,11,230,478,4,2
+Sunday,10,ночь,False,эконом,168,senior,5,"Curry, Baker and Vasquez",better,-3,Снег,24,True,False,False,137,42,75,370,3,4
+Tuesday,06,день,True,бизнес,30,wind,15,Nielsen-Hays,interest,36,Солнечно,4,False,False,False,93,115,268,920,2,5
+Tuesday,07,вечер,True,эконом,168,foreign,12,Arnold PLC,local,17,Дождь,1,False,True,True,178,121,289,227,5,4
+Thursday,09,утро,False,эконом,240,information,22,"Luna, Wilson and Smith",enough,12,Облачно,50,True,True,True,5,162,93,749,1,2
+Sunday,03,ночь,True,первый класс,113,wonder,5,"Patel, Greer and Caldwell",the,6,Дождь,24,True,False,False,129,166,239,782,3,4
+Tuesday,09,вечер,True,эконом,20,it,10,Tucker-Russell,practice,1,Солнечно,38,True,False,True,103,113,147,582,3,1
+Monday,05,утро,False,первый класс,258,task,23,Evans-Merritt,leader,-3,Снег,30,True,False,False,194,64,170,960,3,1
+Thursday,12,ночь,False,эконом,113,do,17,"White, Richards and Brewer",receive,-19,Облачно,37,False,False,True,96,127,120,854,4,4
